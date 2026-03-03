@@ -1,0 +1,2621 @@
+HUTT SCBU HANDBOOK – A QUICK REFERENCE GUIDE OF PRACTICE AND COMMON PROBLEMS
+
+
+
+	
+
+
+This document is for local use only in the SCBU at Hutt Hospital and is not to be distributed outside this unit.
+This document reflects practice recommendations for junior doctors in this unit.
+The recommendations reflected in this document may differ from practices in other neonatal and SCBU units.
+This document is updated regularly. Only the 3DHBSharepoint version should be considered current. 
+Latest update: Nov 2024
+
+
+
+
+Contents
+
+Quick links:	4
+https://collaboration.huttvalleydhb.org.nz/workspaces/nicurmo/SitePages/Home.aspx	4
+Drug monographs: (note username hutt and password scbu)	4
+https://wellington.nicu.nz/	4
+Nicutools:	4
+SCBU – Introduction	4
+Neonatal Resuscitation	14
+SCBU Intubation Drugs Reference Chart	15
+Fluids and Nutrition	16
+Feed fortification, additives, supplements and other commonly prescribed medication	26
+Transient Tachypnoea of the Newborn	35
+Respiratory Distress Syndrome	36
+Meconium Aspiration Syndrome (MAS)	37
+Persistent pulmonary hypertension of the newborn (PPHN)	38
+Electrolyte imbalance	40
+Hyponatraemia	40
+Hypernatraemia	40
+Hypokalaemia	41
+Hyperkalaemia	42
+Cardiac issues	45
+Bradycardia during sleep in neonates	45
+Congenital heart disease screening	46
+Cardiac murmurs	47
+Neonatal ECG:	49
+Congenital heart defect	49
+Supraventricular Tachycardia	50
+Cephalohaematoma, caput succedaneum and subgaleal haemorrhage	52
+Jaundice	59
+Haematology	65
+Guidance on some specific haematological disorders in the newborn including thalassemia, haemophilia, vWD etc.:	65
+Haemolytic disease of the newborn (HDN)	65
+Transfusion Threshold Guidelines	66
+Polycythaemia	67
+Thrombocytopaenia (Source: CDHB neonatal handbook)	69
+NAIT – Neonatal alloimmune thrombocytopaenia	71
+Neutropaenia	73
+Congenital and neonatal infections	74
+Neonatal Sepsis – General Facts	76
+Management of asymptomatic babies at risk of sepsis depends on gestation and risk factors:	83
+MANAGEMENT OF SYMPTOMATIC BABIES REGARDLESS OF RISK FACTORS	86
+Neurology	87
+Hypoxic Ischaemic Encephalopathy	87
+Neonatal Seizures	90
+Metabolic / Endocrine	97
+Hypoglycaemia	97
+Inborn errors of metabolism	104
+Metabolic Bone Disease	105
+Maternal thyroid disease –Guideline from Waikato Neonatal Guidelines 2024	106
+Ambiguous Genitalia; Disorder of Sex Development (DSD)	110
+Gastrointestinal	112
+Bilious vomiting	112
+Necrotising enterocolitis (NEC)	114
+Skin conditions	117
+Staphylococcal skin infections :	117
+Herpes simplex :	117
+Benign skin conditions	118
+Sticky eye and Conjunctivitis	121
+Lumbar skin stigmata / sacral dimples	123
+Surgical issues	124
+Undescended Testes = cryptoorchidism	124
+Hypospadias	124
+Inguinal hernias	125
+Renal Tract Dilatation	126
+Resources :	128
+
+Quick links:
+On Sharepoint there is access to many resources that are useful for your work in SCBU. These include access to the most up to date version of this SCBU handbook, links to the Wellington NICU RMO handbook, drug monographs, and nicutools calculator. 
+To get to these go to Sharepoint> Children’s health services>SCBU> resources> 
+Or follow quick links below. 
+NICU RMO handbook and drug monographs: 
+https://collaboration.huttvalleydhb.org.nz/workspaces/nicurmo/SitePages/Home.aspx
+Drug monographs: (note username hutt and password scbu)
+https://wellington.nicu.nz/ 
+Nicutools:
+https://nicutools.org/
+
+SCBU – Introduction
+Hutt Special Care Baby Unit has 12 beds, including 2 “rooming in” rooms 
+It is a level 2 unit which means we do not routinely provide care for infants less than 32 weeks’ gestation at the time of delivery.
+Mothers presenting in labour who are less than 32 weeks pregnant should be transferred to Wellington Hospital for delivery
+Admission criteria:
+Gestational age <35 weeks
+Birth weight <2.3kg
+Apnoeic or cyanotic episodes
+Babies given naloxone at birth 
+Respiratory distress
+Suspected sepsis
+Hypoglycaemia unable to be corrected with 2 doses of dextrose gel on the postnatal ward
+Baby meeting admission criteria as per HIE protocol
+Poor feeding requiring NGT
+Significant birth defects or suspected surgical problems requiring SCBU level support
+Babies requiring continuous monitoring and/or investigations for other medical indications e.g. convulsions, heart rhythm concerns etc. 
+Babies transferred from NICU for ongoing care 
+Babies are admitted under the care of the Consultant of the Week 
+Babies born at Hutt and transferred to NICU continue under the care of the initial SMO when transferred back
+Babies admitted for up to 4 hrs do not require formal admission or discharge from SCBU documentation but should have a note made in the Postnatal Discharge Summary 
+Babies seen on Postnatal Ward but not admitted to SCBU:
+If the child requires investigations (such as renal USS as IP or OP), create a virtual clinic on Concerto for the SCBU SMO so that appropriate labels are generated and the results are sent to the appropriate consultant
+Please email the SMO when you are doing this so we have a record why the investigation is being done
+Please make a note on the electronic post-natal discharge summary in the designated free text box
+E.g. Baby had blood sugar monitoring for maternal gestational diabetes. Remained stable.  No follow-up needed” – this is a summary note, not a complete assessment documentation
+This is vital so that GP, Plunket and other health professionals involved with this baby in future have access to that information 
+Discharge:
+Babies should be discharged back to PNW to be with the mother as soon as safe to do so
+IV abx can be continued on PNW if the baby is clinically well
+Standard criteria for discharge:
+Gaining weight
+Maintaining core temperature in an open environment
+Medically fit for discharge
+Discharge check list:
+Discharge examination performed and documented – including red reflex and hip checks
+Scripts given to the family if indicated 
+Vaccines given if needed / Hearing checks / eye checks / HUSS completed 
+Discharge summary completed including:
+Relevant results ( HUSS, abnormal blood test results, eye checks, hearing screen)
+Please do not copy and paste ALL results
+A copy of the discharge summary given to the family 
+Follow up arranged:
+The SMO will decide if the baby needs a follow up in the clinic ( please ask if you are not sure)
+The RMO writes an e-referral to Paediatric Outpatients stating the main points and who the named SMO is ( ie the admitting SMO, not the discharging SMO)
+Standard indications for OP follow up with the SMO:
+BW <1800g 
+Infants born at <34/40
+Infants <3rd percentile for BW who have been admitted to SCBU
+Infants at risk of neurodevelopmental problems:
+HIE 
+Seizures 
+Known genetic or metabolic condition associated with developmental problems
+Meningitis 
+Abnormal neurological examination
+Families of infants who have died will be offered an appointment to discuss event surrounding the baby’s admission and death
+Other patients on the SMO’s discretion
+Daily duties on SCBU:
+On your first day on SCBU week, it is important that you get to know the babies:
+Review all the babies in the morning, familiarise yourself with their history and problems and make a plan for the week, including:
+Review of bloods and if the baby needs bloods, write the forms
+Review of immunisations and prescribe if due
+Review of radiology, including head USS – and order if due
+Review of drug chart ( i.e. Is Gentamicin highlighted and stickered?)
+It is good to ascertain early during admission if outpatient follow up will be required and document on the Pink Sheet 
+Please be prepared to present the patients to the SMO on SCBU service on their ward round 
+Not all babies require daily examination – check with the SMO of the week what their expectation is 
+For babies who require surveillance bloods, they are usually done on Tuesday morning – it is important that you chase the results
+Put babies requiring eye checks in the “eye folder” and chart eye drops for Mon
+Eye checks usually happen on Mon from 09.00
+The “Pink sheet” needs to be updated daily – this is a good opportunity to review the problem list, feeding plan and the medications
+Start discharge summary on the day of admission for all babies admitted for over 4hrs 
+ Attending deliveries:
+RMO attendance is expected for :
+Emergency Caesarean sections
+Breech delivery
+Instrumental deliveries
+Intra-uterine growth restriction
+Multiple births
+Pre –term <37 weeks 
+Significant ante-partum haemorrhage
+Suspected chorioamnionitis
+Polyhydramnios
+Fetal distress, including meconium-stained liquor
+Mother with severe pre-eclampsia
+Fetal disease or suspected significant fetal abnormality
+Rhesus iso-immunisation 
+Elective C/S where any of the above factors apply or if :
+Expected difficult extraction 
+Previous IUD/stillbirth
+Maternal sedation / GA ( inform SMO if GA)
+Poorly-controlled maternal diabetes 
+On specific obstetric/maternity team request when they feel paediatric help is needed 
+Low risk elective C/S are otherwise attended only by the theatre midwife.
+If you are attending a delivery, it is your responsibility to:
+ obtain a through history before the delivery regarding:
+Gestation
+Maternal problems
+Relevant past obstetric history
+Drugs given intrapartum
+Evidence of foetal distress
+Risk factors for sepsis
+Indication for delivery 
+Check that all the resuscitation equipment is available and functioning and that you have the necessary resuscitation drugs 
+Attending c/sections:
+Theatre will usually call you with an advanced notice first
+Ask the theatre staff to ring you approximately 5 minutes prior to the actual section or when the spinal anaesthesia /epidural is done
+When to Call the Consultant – this does not mean the SMO will always need to attend these deliveries 
+Caesarean sections under GA 
+Category 1 / “Crash” sections
+Maternal cardiac arrest 
+Significant pathological CTG trace (e.g. sinusoidal trace, sustained bradycardia <70bpm)
+Suspected scar dehiscence or uterine rupture
+Placenta praevia
+APH with major haemorrhage
+Cord prolapse
+<34 weeks gestation
+Infant with unexpected collapse or HR of <60 BPM after initial respiratory resuscitation
+No regular respirations at 5 mins of age
+Significant fetal anomalies
+Fetal scalp pH <7.1 or scalp lactate > 7
+Chest compressions in progress when the RMO arrives
+When the RMO / obstetric team feels they required more senior paediatric help
+Newborn physical examination:
+On the first day, all babies should have a full clinical examination
+Weight, length and HC should be plotted 
+Late examination (4-10 days):
+Weight, length, HC
+Feeding
+Ensure meconium was passed on the first day
+Feed intolerance / colour of any vomitus/aspirates
+Colour – assess for pallor, cyanosis and jaundice
+Respiratory distress
+Heart murmur, femoral pulses
+Eye check – pupil size, shape, cornea clear, red reflex (https://www.youtube.com/watch?v=KNDY-rFG-g0 )
+Cord
+Hips
+Tone and activity
+Hip  checks
+http://nationalwomenshealth.adhb.govt.nz/health-professionals/education-training/educational-videos-presentations
+All babies in SCBU should have a hip check as part of their newborn and discharge examination done by the RMO to exclude developmental dysplasia of the hip/s
+Risk factors for DDH:
+Breech presentation
+Family history of DDH in first degree relative
+Oligohydramnios 
+Babies with abnormal examination or risk factors should be referred to the orthopaedic surgeons
+(on PNW the midwives should do the same – there is no need for  you to be involved, the midwives can refer directly to the orthopaedics) 
+Babies with talipes should also be referred to orthopaedic surgeons ( by RMO or midwife)
+Bloods:
+Blood tests should be ordered as clinically indicated
+Do not send “routine” green top bottle for UEC or CRP  if you are admitting a baby from delivery suite:
+UEC will be representative of maternal results and often need multiple repeats to ensure “normalisation”
+CRP should be delayed until at least 6 hours after birth as this significantly increases sensitivity (i.e. if you are admitting baby older than that from PNW, you can send CRP on admission) 
+All babies on IV fluids should have electrolytes checked daily 
+Routine prematurity surveillance bloods: 
+
+
+
+Other investigations and screening programmes on SCBU:
+Hearing screen
+This is a national programme and all babies should have this completed before discharge
+High risk groups  for possible hearing deficits – need extended hearing screening 
+Family history of congenital deafness
+Malformation of the face or cranium
+Severe neonatal jaundice
+Neonatal meningitis
+Severe birth asphyxia
+Evidence of congenital infection
+Very low birth weight
+IVH
+Severe sepsis
+Elevated levels of aminoglycosides
+High doses of loop diuretics 
+Eye checks (by ophthalmologist)
+To assess for retinopathy of prematurity
+Indications:
+<31/40 at birth OR
+BW <1300g
+Done at 6 weeks and subsequently as indicated by the ophthalmologist
+Chart drops for Monday eye check
+Head USS (HUSS)
+To assess for  IVH 
+Indications:
+<30/40 at birth OR
+BW  <1250g
+Premature infants at higher risk of IVH due to particularly unstable early neonatal course 
+Antenatal exposure to cocaine and amphetamines 
+MCDA twins
+Routine timing
+
+
+
+More frequent scans are required if abnormalities are found especially to watch for or monitor the progress of ventriculomegaly after a significant IVH 
+Vaccines
+At standard times : 6 weeks, 3 months and 5 months
+There is no need to delay Rotavirus vaccination for babies in SCBU
+Premature babies born <28/40 qualify for the 13-valent pneumococcal conjugate vaccine rather than the standard 10-valent
+Consider Palivizumab in those who meet special authority criteria (born at < 28/40 or <32/40 and has CLD or haemodynamically significant heart disease)
+Referrals for babies in SCBU:
+Speech-Language Therapy 
+Concerns about suck and/or swallow
+Oral aversion
+If going home on NG feeds
+Concerns about possible aspiration 
+Dietician
+Faltering growth
+Feeding difficulties
+Pump feeding
+Specialised nutrient requirements 
+Visiting Neurodevelopmental Therapist (via Child Development Service) 
+While in SCBU:
+GA <32 OR
+BW <1500g
+On discharge:
+Abnormal neurological examination
+Sensory sensitivities (unresolving unsettled behaviour during care tasks)
+Genetic syndrome
+Risk of developmental delay e.g. HIE
+Difficulties/injury that could lead to restricted range of movement e.g. torticollis, Erb’s palsy
+Congenital limb abnormalities that are likely to compromise development
+SCBU Home Care Nurse:
+<32/40
+BW <2500g
+Nutritional problems, FTT
+Post-op surgical referrals from Wellington
+Ongoing care required for:
+Syndromic diagnosis
+Cardiac problems
+Inborn errors of metabolism
+Ongoing respiratory problems
+Haemolytic disease of the newborn
+Babies discharged on home oxygen
+Babies discharge on NG feeds
+Palliative Care Babies
+Ongoing major social problems in liaison with Duty Nurse Manager
+Resources:
+
+Auckland DHB new-born services: 
+	www.adhb.govt.nz/newborn
+	www.adhb.govt.nz/newborn/TeachingResources.htm
+
+CCDHB NICU:			
+http://ccdhbintranet/capitalDocs/
+								        https://collaboration.huttvalleydhb.org.nz/workspaces/neonatal/SitePages/index.aspx
+CDHB NICU handbook
+https://cdhb.health.nz/wp-content/uploads/6b3b83bb-neonatal-handbook-gln0001-235777.pdf
+
+NICU tools
+ http://nicutools.org/
+
+ 
+
+Neonatal Resuscitation 
+
+https://www.nzrc.org.nz/assets/Guidelines/Neonatal-Resus/All-Neonatal-guidelines-June-2017.pdf
+
+SCBU Intubation Drugs Reference Chart
+
+
+
+
+
+Laryngoscope blades: 00 for <1kg, 0 for 1-3kg, 1 for >3kg
+Recommended starting settings for ventilator, with recommended ranges in brackets:
+
+
+Making adjustments to a ventilator:
+
+
+Fluids and Nutrition
+Simple facts:
+There are differences in the preferred fluid types and volumes in different neonatal and Special Care Baby units
+There is evidence that restricting the volume in the first few days in premature infants can reduce the risk of NEC and PDA
+Weight change  is the gold standard in assessing hydration
+It is expected for newborn babies to lose up to 10% of their BW in the first few days of life
+Expected urine output is 1 wet nappy in the first 24hrs, 2 in the 2nd and over 4 from day 3 of life
+Measured intake, urine output, blood pressure and clinical appearance are also useful
+Urinary sodium and osmolality can be of value but is unreliable in patients on diuretics or inotropes
+Overhead heaters and phototherapy lights can increase insensible losses
+Fluid volume: 
+The usual total fluid intake (TFI)  volumes are as follows :
+
+
+
+
+As per ESPGHAN/ESPEN/ ESPR, the recommended range of TFI for the first few days of life depends on GA and BW: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The calculations should be based on whichever is greater : birth weight or current weight 
+In  a term baby:
+ enteral feeds can be started initially at 40ml/kg/day ; 
+IV fluids are usually started at 60ml/kg/day
+In a premature infants <1500g it is standard practice to commence fluids at 80mls/kg/day
+Increase TFI by 15 ml/kg/day daily 
+Fluid increase should be individualized based on clinical context,  fluid balance, renal function, electrolyte status
+The recommended TFI on full feeds is 140-180ml/kg depending on the gestation, BW and growth rate
+The decision to exceed 165ml/kg should be at SMO discretion
+The initial fluid restriction is due to:
+Natural 5-7% excess of extracellular fluid  and sodium at birth in both term and preterm babies which can be lost without activating compensatory mechanisms or signs of dehydration
+Creatinine clearance is low initially and increases with post natal age
+Guidance volumes for Supplementary Feeds in the first week of life
+
+
+Special considerations :
+Babies with RDS should maintain relatively fluid restricted for several days until diuresis has occurred 
+Babies started on therapeutic hypothermia should be commenced on IV Dextrose 10% at 40ml/kg/day
+The volume should be adjusted to avoid hypo-or hypernatraemia – see page 19 for further details
+Hypernatraemia in the first few days of life is more likely to be due to dehydration than elevated total body sodium 
+Hyponatraemia usually indicates fluid overload
+Type of fluid 
+Newborns < 32/40,  < 1800g BW and those who are unlikely to tolerate significant amount of feeds by 72hrs should be discussed with NICU for consideration for TPN
+Enteral feeds preferred >32/40 and BW >1800g (oral or via gastric tube)
+First choice milk: EBM (expressed breast milk) or Donor EBM
+For Hutt Breastfeeding Policy see : http://www.huttmaternity.org.nz/health-professionals/policies-guidelines/breastfeeding-policy.pdf
+Second choice milk:
+Standard formula if >32/40 AND >1800g
+Low birth weight formula 
+Due to  higher osmolality should be avoided in babies at high risk of NEC ( see the chapter on NEC for risk factors)
+Can be considered at an SMO discretion  if EBM not available if <32/40 ( will be transferred to NICU) OR <1800g but unlikely to be used until feeds successfully established with EBM or standard formula
+Hydrolyzed / elemental formulas:
+There is no evidence that using these specialized milks decreases the risk of NEC or food allergies
+If a specialized formula is required in a baby with high risk of NEC, Pepti Jr is preferred over Elecare/Neocate due to lower osmolality
+Requires SA 
+At SMO or dietician discretion 
+It is parental choice whether or not  they choose to use  formula
+Even if parents choose to use formula, the first feed, particularly in a sick baby, should be breast milk
+If formula feeding is suggested by neonatal staff, verbal consent must be obtained from the parents and documented 
+Frequency of feeds:
+2hrly if <1.5kg and <32/40 ( so babies who would not be routinely cared for in SCBU)
+3hrly if >1.5kg AND at least 32/40
+Demand feed up to 4 hourly- consider for TERM baby with APPROPRIATE growth 
+IV 10% Dextrose should be commenced if significant respiratory distress OR refractory hypoglycemia 
+At 48 hrs change to: 10% Dextrose with additives (Usually 10mmol of KCl and 10mmol NaCl in 500ml bag)
+EBM mouth cares should commence as soon as EBM available
+Start small amounts of feeds as soon as possible
+The neonatal liver produces 6-8mg/kg/min of glucose
+If dealing with severe hypoglycaemia (hypoglycaemia despite intake of >10mg/kg/min of glucose), higher than 12.5% concentrations of dextrose may be required but should be infused by a central line
+Glucose intake: (use NICU tools app to calculate glucose load)
+
+
+
+
+
+
+
+
+
+
+
+To get concentrated dextrose solutions, use:
+http://www.adhb.govt.nz/newborn/Guidelines/Nutrition/FluidsCalculator.htm
+or the formula below :
+7.5% dextrose 	Add 250ml 5% 	and 250ml 10% dextrose 
+12.5% dextrose 	Add 470ml 10% 	and 30ml 50% dextrose 
+15% dextrose 		Add 440ml 10% 	and 60ml 50% dextrose 
+20% dextrose		 Add 380ml 10% 	and 120ml 50% dextrose
+
+See chapter on Hypoglycaemia  for further information 
+
+Nutritional requirements 
+
+
+Gastric aspirates – see also chapter on feed intolerance and NEC 
+Routine NGT aspiration is NOT required and is not supported by the literature as a tool in assessing feeding intolerance
+It increases the risk of interruption to enteral feeds
+Increases time to full enteral feeds
+Increases time to regain birth weight
+omitting routine aspiration has not shown to increase or delay diagnosis of NEC 
+Discarding gastric aspirates results in loss of essential gastric enzymes and hydrochloric acid
+Gastric aspiration is an unreliable indicator of gastric tube placement – it is therefore important to measure the feeding tube’s position at the start of a shift and at every feed. Aspirating 0.1-0.5mls once per shift to check pH is recommended.
+Gastric residual aspiration and evaluation is only indicated if there are other symptoms or feed intolerance or GI pathology including :
+Vomiting
+Abdominal distension
+Abdominal wall discoloration
+Blood in stool
+Increased events of prematurity
+Sepsis
+Bilious vomiting in term or near term infants are always pathological until proven otherwise and require urgent surgical review
+Assessment of aspirates :
+
+Isolated light-moderate green or yellow residuals (Milk, lemon, mustard, wasabi, lime)  are NOT of concern
+Studies have found no association between green residuals and NEC
+Heavily bile stained, dark green aspirates (Avocado – spinach)  aspirates OR vomitus may indicate an intestinal pathology- feeds should be stopped pending further assessment
+Haemorrhagic residuals may be consistent with NEC- feeds should be stopped pending further examination and investigations 
+Management of gastric residuals :
+Aspirate volume is <50% of previous 6hr feed volume, not heavily bile stained and abdominal exam is reassuring – return aspirate and continue feed
+Aspirate volume is >=50% of previous 6hr feed volume ( so 2 feeds if on 3 hrly feeds) OR heavily bile stained – return aspirate, stop feed and assess the infant for abdominal pathology
+If problem with residual volume persists and baby in clinically well – consider slow bolus feeds.
+If the gastric residual volumes persists despite slower feeds, consider decreasing the feeds to the last well-tolerated feed volume.
+Indications to withhold feeds:
+Abdominal pathology:
+Suspected or proven NEC
+Significant abdominal distension and discoloration
+Other suspected or proven abdominal pathology
+Heavily bile stained OR large gastric residuals AND non-reassuring abdominal examination or clinical instability 
+
+
+
+
+Feed fortification, additives, supplements and other commonly prescribed medication 
+HMF (Human Milk Fortifier)
+Even though breastmilk has many advantages for preterm and sick neonates, it does not meet the nutritional requirements for VLBW infants for energy, protein, calcium, phosphorus, trace elements and vitamins
+HMF provides calories, protein, calcium phosphate, vitamins and electrolytes
+The whey protein component is hydrolysed to break this down to smaller components
+Supplementation with individual additives including phosphate, iron and sodium chloride increases osmolality to a much greater extent than addition of HMF 
+Indications for HMF:
+GA <32/40  OR
+BW <1800g
+Poor weight gain outside the above criteria
+Contraindications / precautions:
+Suspected or proven NEC 
+(including significant abdominal distension with discolouration, blood in stool, heavily bile stained aspirates)
+Significant vomiting
+Sepsis
+MAKE SURE ANY PHOSPHATE SUPPLEMENTS ARE STOPPED WHEN ON HMF 
+When to start:
+Half strength (1 sach in 50mls EBM)  when on 120ml/kg/day 
+Full strength ( 1 sach in 25mls EBM) when reached 140-150mls/kg/day
+When to stop:
+Continue until preparing for discharge to maximise the vitamins, iron, fat, carbohydrate and protein intake and stores 
+If excessive weight gain, consider reducing TFI first 
+Beneprotein 
+Occasionally babies born at <32/40 will be transferred from NICU on Beneprotein as an additional protein supplement once on full feeds
+It is commenced if blood urea is <3.6mmol/L and growth is inadequate ( started at 0.5g/kg/day) 
+Beneprotein can be added to unfortified or fortified beast milk
+Dietician should be involved and a  plan from NICU dietician should be included in NICU discharge paperwork (can contact NICU if not available)
+Beneprotein should be continued until growth is satisfactory , in particular head growth and length 
+If excessive weight gain, consider reducing TFI first
+Monitor urea weekly and adjust Beneprotein as below:
+
+
+
+
+
+
+Infloran (Probiotics) 
+Probiotics have been shown to reduce risk of NEC and all case mortality in premature and IUGR infants
+Infloran contains Bifidobacterium bifidum and Lactobacillus acidophilus
+Indications:
+GA <32/40 OR BW <1800g
+When to start::
+Day one of life irrespective of feeds
+For BW >1kg, commence 1 caps OD
+When to stop:
+Stop at 36/40
+
+Iron supplements = ferrous sulphate
+Iron is essential for brain development
+Iron prophylaxis:
+Indications for iron prophylaxis :
+GA <37/40 OR BW < 2500g on unfortified EBM or standard formula feeds
+Iron supplementation is NOT required if:
+the baby is on >100ml/kg/day of FM85 fortifier or Preterm (LBW) formula
+blood transfusion within last 2 weeks
+multiple transfusions and increased serum ferritin level (>350mcg/L) – monitor weekly and star iron once below 350mc/L
+When to start:
+Commence at 2 weeks of age if on full feeds or on discharge, whichever occurs earliest
+Prophylactic dose:
+3mg/kg elemental iron PO daily (0.5ml/kg/day) 
+Dose does not require adjustment for weight after discharge (usual dose on discharge 1-2ml/day) 
+When to stop:
+Continue for 6-12 months (depending on diet)
+On discharge, ensure that “child –proof closure” is specified on the discharge prescription and advise parents of the potential from accidental poisoning
+Treatment of iron deficiency anaemia:
+Increase dose to 1ml/kg/day Ferrous sulphate (6mg/kg /day) OR
+Start ferrous sulphate at 0.5ml/kg/day in babies receiving fully fortified EBM or LBW formula ( who wouldn’t normally need prophylaxis) 
+Assess haematological response within 2-4 weeks, including ferritin
+Continue treatment for 3 months after Hb recovery
+
+Vitamin D:
+Vitamin D enhances intestinal absorption of calcium and phosphorus and support a large number of physiological processes such as bone mineralisation 
+Premature infants are vitamin D deficient due to lower fat stores and prolonged hospitalisation. Many women are also vitamin D deficient during pregnancy 
+Vitamin D supplementation practice varies between different units in the country – the recommendations below are based on Capital and Coast and Auckland NICU recommendations 
+Vitamin D prophylaxis
+Indications for Vit D prophylaxis 
+Fat malabsorption
+ALL exclusively or partially breastfed babies
+Vitamin D prophylaxis is NOT routinely needed if :
+On full formula feeds
+When to start:
+By 4 weeks of age
+Dose 
+Clinicians vitamin D 1 drop daily (= 400IU cholecalciferol) if term
+Clinicians vitamin D 2 drops daily (=800IU cholecalciferol) if GA <37/40 OR BW <2500g
+  When to stop:
+Continue for 12 months
+
+Vitamin D deficiency (serum 25 hydroxyvitamin D <50nmol/L) with normal Ca/PO4/ALP
+Double current dose (ie. 4 drops if GA <37/40, or 2 drops if term)
+Recheck Vit D status in 2 weeks
+Continue for 2-3 months (with monthly monitoring of Ca,PO4, ALP, 25-OH Vit D)
+Calcitriol
+Active form of Vitamin D
+It may be considered instead of Clinicians vitamin D in neonates with Vit D deficiency AND significant liver or renal impairment if adequate Vit D levels not achieved with Cholecalciferol 
+Dose : 0.1microgram/kg/day
+Requires serum Ca, phosphate and PTH monitoring 
+Phosphate and Calcium
+All neonates born with BW <1800g should receive phosphate and calcium supplementation either as:
+HMF or
+Adding both calcium and phosphate to EBM starting at 1mmol/kg/day in 2-4 divided doses and adjusting according to serum levels – be aware of high osmolality 
+Calcium and phosphate supplements should NOT be given together in the same feed if supplemented separately
+Most infants will have this discontinued prior to discharge
+Sodium supplements:
+Sodium deficiency is associated with neurological sequelae and poor growth
+Urinary sodium content may be helpful in a premature neonate with poor growth and a serum sodium <136 mmol/L to ascertain the total body stores of sodium
+Aim for a urinary sodium > 30 mmol/L if poor growth.
+Recommended target range for serum sodium is 135-145mmol/L
+Sodium requirements:
+Sodium is generally started at 1-2mmol/kg/day
+Extreme and very preterm neonates have increased sodium losses, and a minimum intake of 6 to 8 mmol/kg/day of sodium is recommended. Some may require an intake as high as 12 mmol/kg/day.  
+Caffeine
+Start: 
+All babies <32/40 on day 1 of life – loading dose then regular after 24 hours 
+Babies >32/40 if apnoea/bradycardia/events 
+
+Dosing:
+Note: prescribe dose as 'caffeine CITRATE'
+
+< 28 weeks( or other high risk infants) to start at high dose:
+Loading dose IV/oral  40mg/kg
+Maintenance dose IV/ oral 20mg/kg as a single daily dose at 0800 to start 25=4 hours after loading dose
+
+>28 weeks
+Loading dose IV/Oral: 20mg/kg 
+Maintenance dose IV/Oral: 10mg/kg( can titrate up to 20mg/kg/dose as required) as a single daily dose at 0800 to start 24 hours after loading dose. 
+
+
+Stopping caffeine:
+Consider respiratory support, clinical state, events, oxygen saturation histogram prior to stopping caffeine 
+Consider stopping at 35 weeks if born at gestation >28 weeks
+Consider stopping at 36 weeks if born at gestation <28 weeks
+
+Criteria for stopping
+No apnoea or events requiring stimulation for 5 days
+No or infrequent self correcting desaturations/bradycardias for 3 days
+Max one event per hour
+< 3 events per day
+Histogram saturations <5% of time with sats <90%
+Assessment post stopping
+Review histogram regularly for (ideally) 7 days following stopping caffeine, aiming for <5% of time <90%
+If no concerns 5 days following stopping caffeine could be discharged 
+
+
+
+
+
+
+s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nutritional support in babies with conjugated jaundice
+Consider early referral to dietician
+Malabsorption of long chain fatty acids and fat soluble vitamins is common
+Fat soluble vitamins should be administered until some weeks after resolution of the jaundice. Usual doses are: 
+Optimus Vitamin A drops. 6 drops (0.18mL) daily PO
+Colecalciferol 0.5mL daily Po
+Micel-E 0.5mL daily PO
+Vitamin K 2mg daily PO
+
+Growth and nutrition monitoring
+Weight velocity 15-20g/kg/day from second week of life
+Length 1cm per week
+Head circumference 0.5-1cm per week
+
+Respiratory distress
+
+Respiratory distress is common immediately after birth and is usually due to the transition to extrauterine life
+Persistent respiratory distress requires a rational diagnostic and therapeutic approach 
+Features of neonatal respiratory distress:
+Tachypnoea
+Poor feeding
+Inter and subcostal recessions
+Nasal flaring
+Grunting
+Cyanosis
+Causes to consider include:
+Four most common:
+Transient tachypnoea of the newborn (TTN)
+Respiratory Distress Syndrome (RDS)
+Meconium Aspiration Syndrome (MAS)
+Infection / sepsis
+Other causes:
+Delayed transition (with persistent pulmonary hypertension of the newborn, PPHN)
+Air leaks
+Pneumothorax
+Pneumomediastinum
+Non pulmonary causes:
+Haematological:
+Anaemia
+Polycythaemia
+Congenital malformation including:
+Diaphragmatic hernia
+Oesophageal atresia
+Congenital heart defect
+Metabolic:
+Metabolic acidosis
+Hyperammonaemia 
+Management:
+Clinical history:
+Assess risk factors for sepsis
+Babies that have persisting or intermittent tachypnoea beyond 4 hours of age even if well appearing should be assumed to have sepsis and managed as per guideline (Bloods, CXR, Commence ABx)
+Trend of respiratory signs and symptoms (? Improving vs deteriorating)
+Thorough clinical examination
+Ventilatory support as required
+Low flow oxygen if no work of breathing but FIO2 requirement (in practice rarely the initial therapy as usually signs of respiratory distress are present)
+CPAP rather than High flow is used 
+Usual starting settings are 6cmH2O/6l/m
+This can be increased to 7/7; further increases after discussion with an SMO
+NOTE: if FiO2 is increasing and over 35% please let the SMO know.
+Further management depending on the respiratory support and differential diagnosis
+IV fluids if respiratory distress requiring CPAP
+IV abx :
+If high suspicion of sepsis or the baby is unwell, start IV abx ( Benzylpenicillin and Gentamicin) on admission after sending blood culture
+If low level of suspicion for sepsis but the baby is still requiring ANY respiratory support ( including low flow oxygen), start IV abx at 4 hrs of age ( ensure that blood culture is sent prior to commencing antibiotics) 
+See the “Sepsis guideline” for further details 
+
+Investigations:
+CXR
+Historically performed if the baby is still requiring respiratory support at 4 hrs of age
+This rule should not stop you from requesting a CXR earlier if the baby is deteriorating,  there is no obvious explanation for respiratory distress or if the baby requires intubation
+The reason for the delay is due to nonspecific changes seen on CXR in healthy newborns in the first 4 hrs of life secondary to transition to post-uterine life and due to presence of pulmonary  fluid which can make it difficult to distinguish between TTN, RDS and congenital pneumonia
+Ensure that NGT is placed prior to the CXR
+To rule out Oesophageal atresia
+Bloods:
+Blood  gas
+Blood culture and FBC
+CRP after 6 hrs of life
+Septic screen as per “Sepsis guideline”
+
+
+Transient Tachypnoea of the Newborn 
+TTN is the most common cause of neonatal respiratory distress (up to 40% of all cases)
+This condition is due to persistence of pulmonary fluid in the lung tissue after delivery
+Risk factors:
+Late preterm (34-37/40)
+Caesarean  section 
+Macrosomia
+Maternal diabetes
+Male sex
+Clinical presentation:
+Typically signs of respiratory distress at birth or soon after
+Tachypnoea is the most prominent feature
+It usually resolves within 24hrs but can persist for several days
+CXR
+Radiological features are ill defined and include:
+Increased central vascular markings
+Hyperinflation
+Evidence of interstitial and pleural fluid
+Prominent interlobar fissures
+http://www.adhb.govt.nz/newborn/TeachingResources/Radiology/LungParenchyma.htm
+
+Management:
+Oxygen as required
+PEEP (CPAP)
+Always consider  and treat infection as differential diagnosis, especially if symptoms do not resolve within 4 hours or in the presence of risk factors for sepsis 
+
+Respiratory Distress Syndrome
+aka Hyaline Membrane Disease or Surfactant Deficiency
+This condition is due to surfactant deficiency leading to increased alveolar surface tension and reduced compliance and low functional capacity 
+Resultant atelectasis causes pulmonary vascular constriction, hypoperfusion (ventilation/perfusion mismatch; intrapulmonary shunting) and lung tissue ischemia
+This is the most common cause of respiratory distress in premature infants
+Risk factors:
+Prematurity
+Most common in extreme prematurity (<28/40; 80%)
+28-34/40 : 35%
+>34/40: 5%
+Maternal diabetes ( risk increased six fold)
+Male sex
+Lack or incomplete antenatal steroids
+Clinical presentation: 
+Signs of respiratory distress ( recessions, grunting) immediately after birth 
+The clinical course without surfactant treatment is of steady deterioration over 48hrs and subsequent gradual clinical improvement
+CXR shows:
+Small volume lungs ( not obvious when on CPAP)
+Homogenous diffuse “ground glass” opacity 
+Air bronchograms 
+http://www.adhb.govt.nz/newborn/TeachingResources/Radiology/LungParenchyma.htm
+
+
+Differential diagnosis includes:
+Congenital pneumonia, particularly GBS
+http://www.adhb.govt.nz/newborn/TeachingResources/Radiology/LungParenchyma.htm
+
+TTN
+Treatment:
+CPAP is first line treatment
+Surfactant therapy (+/- ongoing mechanical ventilation) – see chapter on artificial surfactant for details.
+Considered if severe disease, on CPAP with increasing FiO2 and above 30%
+We are introducing MIST/LISA to our unit. This will be at the discretion of the SMO.
+
+
+Meconium Aspiration Syndrome (MAS)
+Meconium stained amniotic fluid (MSAF) comes in various consistencies – thin, moderate and thick. 
+Thin occurs in 50-60% of MSAF deliveries and carries a 2-3% risk of needing some respiratory assistance, with 1% needing ventilation. 
+Thick occurs in 15% and 25-30% require significant resuscitation and 10% on going respiratory support 
+8-12% of deliveries are complicated by meconium stained liquor. 
+In a study by Wiswell 2000, 7% developed respiratory distress of which 3% had MAS and 4% other disorders.
+Risk Factors for Meconium Aspiration Syndrome 
+Primiparity 
+Pacific Island ethnicity 
+Male gender 
+Fetal distress from hypoxia / infection etc (usual trigger for in-utero meconium passage)
+Low cord pH 
+Abnormal CTG (if severe) 
+Thick meconium. 
+Management of meconium stained in the liquor 
+The Paediatric RMO should be called if there is thick meconium staining or light meconium plus fetal distress
+Cord gases should be sent (please ensure this is done)
+There is no advantage in oral and pharyngeal suction as the head delivers and this is not indicated. 
+If an experienced intubator is present and the baby is apnoeic and hasn’t cried after cord is cut and the baby is delivered to the resuscitaire consider tracheal suction with the meconium aspirator. This should not significantly delay resuscitation efforts. Evidence for this is low level.
+Nasal and oropharyngeal (under direct vision) suctioning should be pursued if obvious meconium present and/or obstructing
+Normal resuscitation guidelines should be followed
+All infants with meconium stained liquor need meconium obs (minimum 4hrly) and should not be discharged within 24hours.
+Consider planned early (1-2hour) RMO review in infants with significant meconium exposure
+Admit to SCBU if :
+Symptomatic meconium aspiration syndrome
+High risk for HIE
+Other significant risks for infection
+Management in SCBU:
+Give enough oxygen to maintain SpO2 >95% initially (to avoid PPHN). 
+Put on CPAP to deliver oxygen. 
+CXR if severe respiratory distress, sudden deterioration or tachypnoea persists >4hrs. At high risk of air leaks.
+Consider antibiotics (refer sepsis guideline): 
+Take blood culture if treating with antibiotics. 
+Monitor for complications of meconium aspiration:
+Persistent Pulmonary Hypertension: 
+Is common in severe MAS and can be very difficult to treat. 
+Early assessment and avoidance of hypoxaemia, hypothermia, hypoglycaemia are important to avert PPHN
+Pneumothorax: 
+May occur at any stage (MAS is an air-trapping disease). 
+Consider this any time from resuscitation onwards if there is unexpected deterioration or significant disease. 
+Respiratory Failure: 
+Can occur because of respiratory obstruction, inflammation, infection or shunting. 
+Infection 
+Uncommon, unless sepsis was the stimulus to make the infant pass meconium
+Consider Listeria in preterm
+Meconium is a good culture medium so secondary infection may occur
+Meconium aspiration syndrome radiograph usually shows http://www.adhb.govt.nz/newborn/TeachingResources/Radiology/LungParenchyma.htm
+
+Coarse infiltrates
+Widespread consolidation
+Hyperinflation
+Pleural effusions are not uncommon
+Pneumothorax and pneumomediastinum might be present 
+
+
+Persistent pulmonary hypertension of the newborn (PPHN) 
+PPHN is characterised by persistent fetal circulation, high pulmonary pressures, right to left shunting, severe hypoxia which can be unresponsive to oxygen therapy and confers a high mortality / morbidity. It can be challenging to differentiate this from primary critical congenital cardiac defects.
+PPHN can be
+Primary
+Usually idiopathic
+Secondary to primary dysfunction of the pulmonary epithelium
+Secondary (more common)
+Birth asphyxia
+MAS
+Diaphragmatic hernia
+Sepsis
+Severe RDS
+Hypoplastic lungs
+Polycythaemia 
+Maternal SSRI use (plus some other medications)
+Acidosis and circulatory failure can cause and worsen PPHN
+Neonates with PPHN are often very fragile and difficult to manage
+Diagnosis :
+This is based on excluding cyanotic congenital heart disease
+Assess the difference in pre and post ductal oxygen levels (measure in right hand and a foot); >3% difference is significant
+Diagnosis is confirmed on ECHO
+Management :
+Goals of management;
+Lower pulmonary vascular resistance
+Maintain systemic blood pressure
+Reverse right to left shunting
+Improve oxygenation 
+Minimise barotrauma
+Management :
+These infants will be urgently transferred to NICU, involve SMO
+Oxygenation and ventilation;
+100% oxygen
+Intubate and ventilate ( HFOV is most effective)
+Volume expansion (10ml/kg bolus saline) to maintain normotension 
+NICU management for interest: http://www.adhb.govt.nz/newborn/Guidelines/Cardiac/PPHNManagement.htm
+
+Electrolyte imbalance
+NOTE: Do not routinely check electrolytes or renal function in the first 24hrs of life – the results reflect maternal status, not the baby’s
+Always repeat abnormal results to confirm.
+Hyponatraemia 
+Na <135mmol/L
+Causes :
+Water retention (most common)
+Physiologically reduced diuresis in the first few days of life
+Renal failure
+SIADH (often caused by respiratory disease)
+Increased losses :
+Immature preterm kidneys
+3rd spacing after surgery
+Diuretics
+Management https://www.starship.org.nz/guidelines/fluids-electrolyte-and-arterial-line-fluids
+Treatment will depend on the underlying cause and the severity of the hyponatraemia.
+  It can sometimes be difficult to determine whether the main cause of hyponatraemia is excessive water, inadequate body sodium,
+  or a combination of the two.
+• Excessive water: reduce the water (fluid) intake.
+• Reduced body sodium (from inadequate intake or increased excretion):
+  Oral sodium supplements
+  -  2 Molar NaCl supplements (1ml = 2mmol NaCl).
+  -  Usually start at 3mmol/kg/day additional NaCl.
+  -  Occasional infants will require ≥12mmol/kg/day NaCl.
+  Intravenous sodium infusion
+  Refer to the sodium infusion calculator.
+Hypernatraemia 
+ Na >145mmol/L
+Blood gas results can show sodium levels lower than “green tube “ sample as they measure whole blood electrolytes – therefore, elevated on “blood gas” results should be taken seriously
+High Na in the first 48hrs almost always reflects free water deficit 
+Causes:
+Usually due to excessive water loss / dehydration 
+Poor feeding – by far the most common cause 
+Glycosuria
+Diabetes insipidus
+Excessive gastrointestinal losses
+Excessive insensible losses
+Inappropriate fluid restriction
+Occasionally iatrogenic due to excessive Na input
+Sample technique ( haemolysed sample) 
+Assessment :
+Weight loss and decreased urine output suggest dehydration
+Dilute urine and normal or increased urine output suggest excessive water loss ( glycosuria or diabetes insipidus)
+Management:
+Aim to reduce Na slowly (0.5mmol/l/hr)
+In the first few days of life, increase total fluid volume 
+If Na>160mmol/L (severe hyperNa)
+Assume 10% dehydration
+Replace half deficit over 24hrs
+Correction with enteral fluids rather than IV fluids is safer if possible
+Usually all that is needed is appropriate volume of feeds delivered orally or via NGT and monitoring of Na 8-12 hrly until Na <155 
+If baby is on IV fluids and not tolerating feeds, increase IV fluids  ( a day ahead) 
+If persistent significant hypernatraemia despite IV fluid volume 180ml/kg/day, consider addition of EBM /formula at 40ml/kg/day via nasogastric tube– stop when Na falls below 150mmol/L – BE CAREFUL, THIS IS A VERY HIGH VOLUME AND Na CAN DROP TOO QUICKLY 
+If there is evidence of oedema and weight gain associated with rising Na, reduce Na and water intake 
+See also 
+https://www.starship.org.nz/guidelines/practice-recommendations-for-weight-loss-dehydration-and-hypernatraemic/
+Hypokalaemia 
+K < 3.5mmol/L
+Causes: 
+Insufficient “INTAKE”  in IV fluids
+Increased losses:
+Diarrhoea
+Diuretics
+Renal disorders
+Other mechanisms
+Metabolic alkalosis
+Drugs :
+Insulin, fluconazole, amphotericin
+Management depends on severity:
+Mild hypokalaemia K >=2.0 – consider the following options:
+Start oral supplements 1-2mmol/kg/day in 4 divided doses if on half or more enteral feeds 
+Increase rate of IV fluids with additives 
+Increase the concentration of KCl in IVF 
+Symptomatic or severe hypokalaemia K <2.0mmol/L
+Signs and symptoms:
+ECG changes:
+ST segment depression
+Low voltage T waves
+U wave
+Clinical signs :
+Neuromuscular weakness
+Ileus 
+Urinary retention
+Treatment:
+Start with enteral supplements as above 
+Increase the rate of IV fluids with KCL 
+IV CORRECTION OF K IS HIGH RISK INTERVENTION and requires a central line – this will most often be done in NICU - discuss with SMO
+
+Hyperkalaemia 
+K > 6 mmol/L
+ECG evidence of hyperkalaemia :
+Peaked T waves, prolonged QRS, prolonged PR interval,  arrhythmias
+By far the most common reading in a haemolysed sample – repeat test as soon as possible in the first instance 
+Management depends on the level of hyperkalaemia :
+Mild hyperkalaemia : K 6-7mmol/L
+Identify and discontinue any potassium containing fluids or medications
+Correct any metabolic acidosis
+Moderate hyperkalaemia : K 7-8mmol/L
+As above
+Discuss with SMO (likely to be discussed with NICU)
+Consider:
+10% calcium gluconate infusion immediately 
+0.5ml/kg (0.1mmol/kg) over 10-30 mins
+Can be repeated
+Stabilizes myocardial membrane	
+Can cause severe hypercalcaemia and its side effects ( seizures, cardiac arrhythmias)
+ Insulin and dextrose infusion
+Consider Salbutamol infusion
+Severe hyperkalaemia K >8 mmol/L or any level with arrhythmias :
+10% calcium gluconate infusion immediately 
+0.5ml/kg (0.1mmol/kg) over 10-30 mins
+Can be repeated
+Stabilizes myocardial membrane	
+Can cause severe hypercalcaemia and its side effects ( seizures, cardiac arrhythmias)
+Management as moderate hyperkalaemia 
+Consider sodium bicarbonate if co-existing metabolic acidosis
+Dose (ml) =  base deficit  x 0.6 x weight (kg)
+Consider Resonium – should be avoided in preterm babies :
+It binds intestinal K  and prevents intestinal absorption
+0.5-1g/kg PR
+Last resort options:
+Exchange transfusion
+Peritoneal dialysis 
+See also  https://www.starship.org.nz/guidelines/hyperkalaemia-in-the-neonate
+
+Cardiac issues 
+Bradycardia during sleep in neonates
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Congenital heart disease screening 
+http://intranet.huttvalleydhb.org.nz/policies-guidelines/clinical/paediatrics-special-care-baby-unit-scbu/early-pulse-oxymetry-for-newborns/early-pulse-oxymetry-for-newborns-2019.pdf
+All babies should be screened for congenital heart disease between 4 and 24 hours of age. This should be done by midwives on PNW or SCBU nurses if the baby is admitted to SCBU 
+The purpose is to identify patients with critical cardiac defects before significant clinical symptoms develop and the baby becomes critically unwell
+The screening can also pick up cardiac defects that aren’t immediately critical, but involve right to left shunts, respiratory problems and early sepsis 
+Two saturation measurements  - from the right hand and a foot 
+Interpretation of results :
+
+Assessment of the infant with low oxygen saturations / failed screening :
+A history looking for risk factors and symptoms for infection, respiratory and cardiac disorders 
+Examination looking at :
+Whether they are well or unwell
+Hydration status, colour, perfusion
+Respiratory rate 
+Cardiac exam including : heart rate, BP, pulse volumes including femoral pulses, presence of murmurs, liver enlargement 
+Discussion with SMO as may require ECHO unless an obvious non cardiac explanation of the low saturations that after treatment results in normalisation of saturation levels
+Cardiac murmurs 
+https://www.clinicalguidelines.scot.nhs.uk/ggc-paediatric-guidelines/ggc-guidelines/neonatology/heart-murmurs-in-the-neonate-an-approach-to-the-neonate-with-a-heart-murmur/
+Simple facts :
+Many babies will have an audible murmur in the first 48-72 hrs of life
+This is caused by constriction of the ductus arteriosus or other circulatory changes related to the perinatal transition
+The murmur of normal ductal closure in a well term infant is typically an ejection systolic murmur at the left sternal edge. This is generally caused by increased flow through the pulmonary valve from LR shunting through the duct. It can be reasonably loud but should never be accompanied by other abnormal cardiac signs such as cyanosis, abnormal femoral pulses, thrill or significant tachycardia / tachypnoea.
+Only small minority of the murmurs will indicate a congenital heart defect but these are essential to recognise.
+In excluding serious congenital heart disease, the rest of the cardiovascular examination is just as important as auscultating the heart. 
+A neonate with any of the following findings needs urgent assessment even if a murmur is not present:
+Signs of heart failure of shock
+Lower limb saturations <96% in the absence of respiratory disease
+>3% difference between pre and post ductal saturations
+Absent / weak femoral pulses
+
+ What to do if you hear a murmur on postnatal ward in a well baby 
+Well baby with normal examination otherwise and normal saturation screening:
+Perform full cardiovascular examination assessing for:
+Dysmorphic features 
+Signs of heart failure (tachypnoea, increased respiratory effort, hepatomegaly, shock)
+Palpation of brachial and femoral pulses
+Presence of cyanosis (as measured by lower limb saturations – a reading < 96% or >3% difference between pre and post ductal saturations should prompt further investigation 
+Heart sounds
+Presence of a heave
+Murmur – intensity, character, location and radiation
+Pre and post ductal saturations 
+Review by registrar (or consultant if high level of suspicion for a congenital heart disease) 
+All infants with heart murmur should remain in hospital until >24hrs of age
+Re-examine the baby daily until murmur resolved or baby is discharged. 
+If the baby remains well, pre and post ductal saturations are normal but the murmur persists on discharge :
+Explain and give parents the written information leaflet describing warning signs and advising what to do if baby became unwell
+Ensure follow up in RMO clinic within 6 weeks
+Additional investigations :
+ECG
+Not routinely performed as has been shown not aid significantly in the diagnosis other than AVSD ( more common in Trisomy 21)
+CXR and 4 limb BPs
+There is no evidence to support the use of CXR or 4 limb BP in the assessment of neonates with heart murmurs 
+ECHO
+Likely significant congenital heart disease requiring same day ECHO  (will need transfer to NICU) is  indicated if cardiac murmur AND any of the below :
+Persistent lower limb saturations <96%
+Positive congenital cardiac screening ( >3% pre/post ductal saturation difference)
+Absent / weak femoral pulses
+Heart failure
+Shock
+Urgent inpatient or outpatient ECHO  is indicated in an asymptomatic baby with a pathological murmur :
+Dysmorphism
+Heave
+Abnormal heart sounds
+Loud murmur (>2/6)
+Pan systolic, diastolic or continuous murmur
+Location other than left sternal edge/radiation
+Asymptomatic baby with low risk of congenital heart disease requires a routine review in RMO  clinic in 2-6 weeks and consideration of ECHO if murmur persists:
+Well infants 
+No signs of heart failure,
+Normal pulses
+Lower limb saturations >96%
+No significant pre/post ductal saturation difference
+Soft systolic murmur at the left sternal edge with no radiation ( 1-2/6)
+
+
+Neonatal ECG:
+
+http://www.adhb.govt.nz/newborn/Guidelines/Cardiac/NeonatalECG.htm
+Congenital heart defect 
+Simple facts
+Majority of significant congenital heart lesions will be diagnosed antenatally and decision will have been made about the most appropriate place of birth
+Some conditions ( like TGA) are difficult to diagnose and can be unrecognised prior to birth  
+Most infants will not require additional support at birth and can be asymptomatic for hours or days postnatally
+Any cyanotic and bradycardic newborn should be resuscitated as per standard protocol and the cause should be assumed to be respiratory until proven otherwise  
+The major cardiac lesions can be grouped as 
+Duct-dependent for systemic blood flow 
+Hypoplastic Left Heart Syndrome, 
+critical aortic stenosis, 
+Interrupted aortic arch.
+Duct-dependent cyanotic lesions 
+pulmonary atresia, 
+transposition of the great arteries
+Non duct dependent lesions 
+Tetralogy of Fallot, 
+VSD and AV canal defects
+Rhythm disturbances 
+congenital heart block, 
+fetal supraventricular tachycardia
+For duct dependent lesion :
+IV access
+Central (umbilical) access 
+Prostaglandin infusion – Alprostadil
+See NICU Drugs for details
+Usually require intubation and ventilation as alprostadil causes apnoea
+
+For all other lesions:
+Discuss with consultant who will discuss further as appropriate 
+Supraventricular Tachycardia 
+Simple facts:
+30-40% of SVT presents in the first few weeks after birth but can occur antenatally. 
+The majority of SVT in neonates is due to a re-entrant rhythm (extra electrical connection) 
+Presentation 
+Often asymptomatic and tolerated for many hours 
+Tachypnoea, poor feeding, pallor, sweating, irritability, lethargy 
+Management 
+Non-Pharmacological Management 
+Only use this in patient who are haemodynamically stable and not in shock 
+Explain the procedure to the parents 
+Cardiorespiratory monitoring in place 
+Wrap arms in a towel and immerse the whole face (including mouth and nose – no need to occlude these as the baby will hold its breath) in an ice water slurry in a bowl/bucket for 5 seconds  
+If unable to dip baby into the water place an ice cold facecloth to the face for 10 seconds 
+Reverts SVT in 90% cases 
+Pharmacological Management - If ice has not been successful or contraindicated due to shock 
+IV access in as large a vein as possible – antecubital fossa is preferred; place a 3-way tap 
+Adenosine rapid bolus through one port then a rapid bolus of saline flush up to 5mL 
+Adenosine temporarily blocks the AV node so asystole will be seen briefly before reverting to sinus rhythm 
+Dose at 100mcg/kg then 200mcg/kg then 300mcg/kg and if still unsuccessful:
+Check technique:
+Rapid bolus of adenosine followed immediately by rapid bolus of NS into a large vein, preferably in ACF
+ call the on-call Paediatric Cardiologist in Starship for further advice about adenosine doses (up to 500mcg/kg) or other drugs (amiodarone) 
+Record the rhythm strip when giving adenosine 
+
+Electrical Cardioversion 
+Treatment of choice if the baby is in circulatory shock and there has either been no response to iv adenosine or iv access has not been obtained 
+Ongoing Management 
+Take a 12 lead ECG once back in sinus rhythm 
+Echo
+Half of the babies will have recurrence of SVT in infancy but 90% will have stopped by 1 year of age 
+Consult Paediatric Cardiologist to discuss the need for ongoing medication and follow-up 
+
+Cephalohaematoma, caput succedaneum and subgaleal haemorrhage 
+https://media.starship.org.nz/practice-recommendation-for-neonatal-subgaleal-haemorrhage/Neonatal_Subgaleal_Haemorrhage_Oct_2018.pdf
+
+
+
+
+
+Subgaleal haemorrhage:
+ Risk factors:
+Vacuum delivery or attempted vacuum delivery especially if :
+Inappropriate placement of the cup
+Prolonged vacuum > 20 mins
+3 or more pulls
+Detachment of vacuum cup
+Prematurity <36 weeks (contraindicated <34/40) 
+Nulliparity
+Haemophilia 
+Recommended risk surveillance following instrumental birth (attempted or successful) :
+All babies should receive IM vitamin K unless contraindicated
+NO HATS to be worn during observation period
+Low risk surveillance is required for ALL newborn infants following attempted or successful instrumental delivery :
+Observations at birth, 1 hour, 4 hours 
+HR, colour, perfusion, activity and examination of scalp in good light; Intermittent pulse oximetry recommended
+Intermediate risk surveillance if any of the following:
+Total vacuum extraction time >20 mins  
+3 or more pulls
+2 cup detachments
+5 min Apgar < 7
+At clinician’s request 
+Includes :
+Paediatric RMO  review 
+Cord or venous or capillary FBC as baseline 
+Cord lactate
+Consider group and hold
+Observations at birth, 1 hr, 2 hrs,4 hrs,6 hrs, 8 hrs and 12 hrs of age
+HR, colour, perfusion, activity and examination of scalp in good light
+Pulse oximetry strongly recommended 
+High risk surveillance if:
+Baseline HR >160BPM or rises >20BPM
+Tachypnoea RR>60 or increased work of breathing
+Pallor
+Poor perfusion (CRT>3secs)
+Lactate >3mmol/L
+Scalp examination consistent with suspected subgaleal bleed (see table above) 
+Increase in head circumference if measured
+Includes:
+Immediate paediatric review
+Admission to SCBU
+On admission :
+FBC, crossmatch, coagulation profile and capillary gas
+Continuous monitoring of HR, RR and pulse oximetry
+BP Q15 min for 4hrs, then hourly for at least 4 hrs
+IV access ( 2 peripheral lines or UVC)
+Confirm Vit K had been administered 
+At 4 hrs:
+Repeat FBC and lactate
+
+
+Management of confirmed / suspected SGH: 
+Admit to SCBU
+Notify SMO after rapid assessment 
+Low threshold for discussion with NICU 
+Ventilation support as needed
+Low threshold for activation of Massive Transfusion Protocol – discuss with haematology / blood bank
+Fluid bolus 10-20ml/kg normal saline if:
+Tachycardia >160BPM ( or >20 rise)
+Poor peripheral perfusion / CRT >3secs
+Mean BP <40mmHg in a term infant
+pH <7.3 or lactate >3 mmol/L
+Blood products:
+RBC if Hb <140g/l OR severe hypovolaemia with any Hb
+RBC O neg or type specific 15ml/kg given over 10 mins for severe hypovolaemia
+Massive Transfusion Protocol if ongoing hypovolaemia, bleeding or instability (or refer to ADHB Paediatric MTP for products and volumes or follow below:) 
+
+
+Repeat FBC every 4 hrs until stable
+Acidosis management:
+Aim for pH >7.3 an lactate <3
+Consider correction with NaBic8.4% if pH <7.3
+Half correction (ml) = BE x weight (kg) x 0.3
+
+Other considerations:
+Aim for normal ionized Ca levels (1.1-1.35)
+ionized Ca <0.6 mmol/L worsens coagulation disorders 
+Aim for normokalaemia
+Aim for euglycaemia
+Aim for normothermia
+Monitor SBR and treat early if indicated
+Head bandaging is NOT recommended ( increased ICP)
+Imaging should await stabilisation 
+USS, Skull Xray, CT or MRI can be used to diagnoses complications 
+
+
+Jaundice
+Simple facts : 
+Jaundice becomes obvious when serum bilirubin concentration raises above 50umol/l
+It is present in up to 60% of term and 80% of preterm infants and is physiological in most cases, however requires evaluation and rational management
+Atypical jaundice is more likely to reflect pathology:
+Early jaundice ( first day of life): Requires urgent assessment and early repeat
+Late onset (over 1 week of age)
+Prolonged jaundice
+>14 days in term babies
+>21 days in preterm (<37 weeks gestation) babies
+Rapid rise in SBR
+NOTE: Bilirubin is measured on our blood gas machine and will often be a little higher than lab values. We generally use the gas results and tracking should be done with one method. If measured on both used the highest for making treatment decisions.
+Kernicterus refers to a permanent damage to deposition of excess unconjugated bilirubin in brain tissue, particularly the basal ganglia. There is an increased risk with serum bilirubin levels greater than 340micromol/L and with rapidly rising level (greater than 8.5mmol/L/hr)
+Kernicterus in healthy term babies is virtually unknown below a serum concentration of 450micromol/L
+Long term complications include : Cerebral Palsy, developmental and intellectual delay, hearing deficit , dental dysplasia and oculomotor disturbances 
+Early jaundice – onset of jaundice in the first 24 hrs. of life
+Causes :
+Haemolytic disease of the newborn
+Sepsis
+Early physiological (diagnosis of exclusion)
+Investigations to consider following a thorough antenatal and perinatal history and examination include:
+All babies with early jaundice or jaundice requiring phototherapy should have SBR Checked, maternal blood group looked at, Baby’s blood group and Direct Antiglobulin Test (DAT), FBC, blood film and reticulocyte count. 
+SBR should be monitored 6-12 hourly depending on speed of rise and age.
+Consider septic screen if sepsis concerns
+Note: Liver function tests are not routinely recommended in early unconjugated jaundice work up
+Significant jaundice visible from 2-5 days of life requiring treatment
+Most common causes :
+Physiologic
+Dehydration
+Haemolysis
+Infection
+Prematurity
+Investigations:
+Review risk factors for sepsis and feeding chart
+Review infant for signs of dehydration and output chart
+Bloods;
+As above
+Consider G6PD
+UEC – to assess Na
+SBR
+Septic screen – if suspicion of sepsis
+
+Prolonged jaundice – see starship guideline 
+Causes – numerous
+Unconjugated hyperbilirubinaemia
+Breast milk / physiological jaundice – by far the most common cause
+Haemolysis
+DAT positive and negative causes
+Infection
+Hypothyroidism
+Prematurity
+Pyloric stenosis
+Intestinal obstruction
+Conjugated hyperbilirubinaemia (conjugated bilirubin >20% total; absolute value >20umol/l)
+Intra and extrahepatic biliary tract obstruction:
+Most commonly due to biliary atresia
+Infection 
+Metabolic conditions
+Hypothyroidism
+Investigations 
+Inspect the child’s stool colour for acholic stool  - tell SMO if acholic. (parental history has been shown to be unreliable). 
+https://www.hopkinsmedicine.org/johns-hopkins-childrens-center/what-we-treat/specialties/gastroenterology-hepatology-nutrition/stool-color-overview.html#:~:text=White%20Stools&text=If%20you%20suspect%20that%20your%20infant%20has%20white%2C%20chalky%20grey,be%20found%20on%20our%20website.
+
+
+
+https://www.schn.health.nsw.gov.au/fact-sheets/jaundice-in-newborn-babies
+
+Bloods :
+SBR and split!
+FBC, reticulocytes, blood film
+T4/TSH
+Blood group, DAT, G6PD level  – if suspicion of haemolysis only
+G6PD deficiency is more common in patients of Asian/African/Mediterranean/Middle Eastern ethnicity
+Make sure neonatal metabolic screening performed (Guthrie card!)
+Note : LFTs are not necessary in initial screening
+Urine : Urine microscopy and culture – there is ongoing debate as to the usefulness in well infants; likely not indicated in otherwise asymptomatic babies. If any concerns about growth or feeding or other symptoms this should be done. 
+Other investigations in conjugated jaundice : follow SSH guideline on  https://www.starship.org.nz/for-health-professionals/starship-clinical-guidelines/j/jaundice-investigation-of-prolonged/
+Early discussion with SSH gastroenterology team essential 
+Treatment 
+Treat any identifiable cause 
+Phototherapy
+Note: phototherapy charts are not validated for prolonged jaundice and management in this group should be individualized and based on clinical evaluation and risk factors for kernicterus
+It works by converting bilirubin to a water soluble isomers that can be excreted with urine
+The most effective wavelength is that around the blue wavelength (450-460nm)
+It is used to reduce the risk of kernicterus 
+The levels at which phototherapy is recommended vary depending on gestation, age and risk factors – see local protocol
+Side effects are rare and mild and include:
+water losses, loose green stools, skin rashes, overheating and/or chilling
+Biliblanket
+Could be used on the postnatal ward – depending on staff
+Not appropriate for babies who are suspected of having haemolysis
+If provides inadequate treatment, the infant needs to be admitted for more intensive phototherapy
+Indications for intensive phototherapy in SCBU ( ie more than Biliblanket) :
+Jaundice <24hrs of life
+SBR within 50 micromol/L of exchange transfusion threshold 
+SBR rising greater than 8.5 micromol/L/hr (check this with the BIliApp)
+SBR continues to rise within 6 hrs of starting the biliblanket
+Phototherapy is  usually discontinued when bilirubin level reaches a level of 50micromoles/l below the treatment threshold
+A repeat measurement is usually recommended 8-12 hrs later to ensure no “re-bound” elevation 
+This serum check can be done by the LMC in the community – the need for repeat test is not necessarily and indication to stay in hospital
+Follow up : as per http://intranet.huttvalleydhb.org.nz/policies-guidelines/clinical/paediatrics-special-care-baby-unit-scbu/jaundice-and-phototherapy-in-babies-under-28-days/jaundice-and-phototherapy-policy.pdf
+with SCBU Home care nurse +/- Paediatrician (at SMO discretion) :
+All Rh Positive infants of Rh Negative mums requiring phototherapy
+All infants with a history of in utero blood transfusion
+All infants who received intravenous immunoglobulin for haemolytic disease
+All infants who receive and exchange transfusion for haemolytic disease and have been transferred back from Wellington NICU 
+With LMC (please discuss directly with LMC at discharge):
+All other DAT positive infants who required phototherapy including ABO incompatibility
+A clinical review and FBC should be done at least at 2 and 6 weeks of age
+The LMC should call the SCBU RMO for advice if the two week Hb is less than 120 or the six week Hb is less than 90
+If further follow up is required, the LMC should refer the baby for follow up to GP 
+With prolonged jaundice and no pathology found
+Repeat SBR until improving 
+Recheck conjugated fraction if jaundice persisting 
+
+See also: 
+http://intranet.huttvalleydhb.org.nz/policies-guidelines/clinical/paediatrics-special-care-baby-unit-scbu/jaundice-and-phototherapy-in-babies-under-28-days/jaundice-and-phototherapy-policy.pdf
+
+
+Haematology
+
+Guidance on some specific haematological disorders in the newborn including thalassemia, haemophilia, vWD etc.:
+https://www.starship.org.nz/guidelines/haematological-disorders-in-neonates/
+Haemolytic disease of the newborn (HDN)
+This is caused by mother’s-baby blood group incompatibility
+The risk is usually identified and stratified in utero
+Not all maternal atypical antibodies cause HDN, regardless of titre 
+
+
+
+In babies known to be at risk, cord blood must be analysed for:
+Blood group
+DAT
+Bilirubin
+FBC and reticulocyte count
+Management after birth
+Depends on the risk of severe HDN
+Admit to NICU
+Consider inserting UAC and UVC – in case exchange transfusion required
+Measure formal bilirubin level every 4-6 hrs.
+Consider commencing phototherapy at birth
+Consider IV fluids to minimise time out of phototherapy area and to ensure good hydration 
+Immunoglobulin
+Can be used in Isoimmune HDN 
+Has been shown to reduce the need for exchange transfusion in Rh and ABO related HDN
+Used when bilirubin is rising and approaching exchange transfusion level despite maximal noninvasive therapy
+Dose will be recommended by NICU specialist (usually 0.5-1g/kg) and repeated after 12 hrs.
+Exchange transfusion
+This should be undertaken only in rare cases – always discuss with NICU consultant
+Follow up and late anaemia
+Late anaemia is less likely in HDN related to A and B incompatibility
+Infants at risk should have Hb checked periodically in the first 4-6 weeks of life
+Minimum at 2 weeks and 6 weeks, increased if Hb falling quickly
+Top up transfusion should be considered if Hb <70g/l with low reticulocyte count or if symptomatic
+Folate supplementation is recommended in all infants with Rh HDN or any other significant HDN
+Transfusion Threshold Guidelines
+The following table provides a guideline to when to transfuse. The threshold for transfusion will depend on the clinical scenario. The lower threshold is likely to be appropriate for well babies who have anaemia of prematurity, however for unwell babies, or those with a different cause of anaemia (eg haemolysis or subgaleal haemorrhage), higher thresholds are more likely to be appropriate. 
+Dose : 		10ml/kg		( may be up to 15ml/kg) 
+Infuse via peripheral line or UVC
+Common practice is to infuse over 3-4 hrs and needs to be transfused within 4 hrs of leaving the blood bank
+Discuss with SMO regarding use of frusemide (ie. oedematous babies with CLD or cardiac condition)
+
+Polycythaemia
+Simple facts:
+Polycythaemia  affects up to 5% of healthy term newborns
+It is defined as a venous haematocrit that greatly exceeds normal values for gestational and postnatal age
+Term baby : Hct >65%
+Note : capillary sample is inadequate for the purpose of diagnosing polycythaemia as Hct can differ up to 15%
+Hct and blood viscosity have linear relationship when Hct <60%; 
+above 65%, the relationship is exponential
+Not all polycythaemic babies will have hyperviscosity 
+Hct measurement depends on :
+Site of sampling :
+Hct values are highest in capillary samples 
+Age at time of sampling ;
+Hct values reach physiological peak at 2 hrs of age then decrease to levels in cord blood by approximately 18 hrs of age
+Laboratory technique used
+Risk factors: 
+Delayed cord clamping
+Holding baby below mother at delivery
+Twin to twin transfusion
+IUGR and infants of mothers with pre-eclampsia ( or other placental insufficiency) 
+Fetal hypoxia secondary to:
+Maternal sepsis
+Smoking
+Cyanotic congenital heart disease
+Severe lung disease
+Infants of diabetic mothers with poor control
+Genetic syndromes (eg Trisomy 21, 13 18, BWS):
+Infants with endocrine disorders ;
+CAH
+Neonatal thyrotoxicosis
+Clinical presentation:
+Most babies are asymptomatic 
+Symptoms usually present in the first few hours of life, but can develop over the first few days
+If the infant remains asymptomatic for 48-72hrs, they are very unlikely to develop symptoms
+Symptoms :
+GI symptoms (17%):
+Poor feeding
+Vomiting 
+Hypoglycaemia (12 - 40%)
+Hyperbilirubinaemia (>30%)
+Cyanosis / apnoea (<15%)
+CNS symptoms
+Tachypnoea
+Tachycardia
+Diagnosis :
+Venous FBC should be obtained on infants who are symptomatic (poor feeding, vomiting, tachypnoea, cyanosis)
+Do not check FBC in babies who appear plethoric but are asymptomatic
+Hct should be assessed 
+Remember that not all babies with high hct also have hyperviscosity and some infants with hyperviscosity do not have polycythaemia
+Management:
+Hypoglycaemia and hyperbilirubinaemia should be monitored for  and treated appropriately
+There is lack of good evidence for appropriate management and most guidelines are based on expert consensus
+There is no evidence comparing intravenous fluids compared to enteral feeds as means of hydration for these infants
+Asymptomatic infant :
+Ensure appropriate fluid and glucose intake ( IV or enteral) 
+Monitor glucose and bilirubin
+If Hct <70% : 
+Repeat Hct after 12-24 hrs. 
+If Hct <70% and no symptoms, continue for 24 hrs. and repeat
+If Hct >70% - there is no evidence to support that any of the below approaches is better :
+Monitor with or without IV fluids
+Partial exchange transfusion (considered when Hct >75%, discuss with SMO)
+Symptomatic infant :
+The optimal treatment has not been established
+Monitor and give IV fluids ( mainly to prevent hypoglycaemia)
+Consider partial exchange transfusion
+Thrombocytopaenia (Source: CDHB neonatal handbook)
+Definition of thrombocytopaenia as plt  <150 x 109/l applies to all ages and gestations 
+It is very common in preterm neonates and common in term babies
+It is usually self-resolving without complications 
+Causes :
+
+
+Early onset thrombocytopaenia :
+Most commonly due to placental insufficiency 
+Usually low/low normal levels at birth followed by a nadir of 50 – 100 x 10 9 /l at 4-5 days, and the count is usually back to normal at 7-10 days 
+Risk of bleeding in this setting (if Plt count remains above 50) is very low
+Usually associated with neutropenia and polycythaemia
+If no obvious placental insufficiency, consider :
+NAIT – ( see below)
+Autoimmune thrombocytopaenia 
+Due to maternal antibodies
+Low risk of bleeding
+Monitor Plt daily
+Consider IV immunoglobulin  if plt <30 x 10 9 /l
+Do not give platelets as they will be inactivated by maternal antibodies 
+Late onset thrombocytopaenia;
+Should be considered to be sepsis or NEC related until proven otherwise
+Usually acute
+Investigations:
+Look for possible causes listed above
+Maternal Plt count
+Check coagulation profile and LFTs
+If NAIT is suspected – see below 
+Transfusion guidelines:
+Decision to transfuse should be individualised
+General guideline:
+
+
+
+
+
+
+Dose :  10ml/kg over 1 hr
+NAIT – Neonatal alloimmune thrombocytopaenia 
+It is the most important cause of unexpected thrombocytopaenia in a newborn to consider and rule out 
+It is relatively uncommon but can be very dangerous
+20% can have intracranial haemorrhage
+Of these, 10% will result in death and 20% in neurological sequelae
+Results from transplacental transfer of maternal Human Platelet Antibodies (HPA) against fetal antigen which is inherited from the father 
+It can occur during the first pregnancy
+Clinical presentation varies from an asymptomatic baby, through  well neonate with petechiae to an acute and fatal haemorrhage 
+The history of thrombocytopaenia in a sibling makes this diagnosis almost certain
+Investigations :
+Baby
+FBC
+If not paternal sample available – send baby’s blood for genotyping
+Mother
+FBC ( maternal plt count during pregnancy will be normal)
+Genotyping
+HPA antibodies
+Father
+Genotyping
+Definitive diagnosis depends on paternal genotyping
+Treatment :
+Platelet transfusion :
+
+
+Ideally, platelets matched with maternal antibodies are preferred but may not be available in an emergency
+Transfuse 10ml/kg of platelets over 30-60 mins 
+If unmatched platelets are used, consider Immunoglobulin (1-2g/kg)
+IVIG
+Consider with unmatched platelets
+If used without platelet transfusion, a delay in action of 24-36hrs can be expected, potentially leaving the child at risk
+Other considerations :
+Head USS
+Ensure vitamin K given
+Monitor for clinical signs of Intracranial haemorrhage in the first few days of life – early discharge is contraindicated
+Daily FBC until Plt count stable above 100 x 10 9
+Prior to discharge ensure :
+Plt count above 100 x 10 9
+Paternal genotype sample sent
+Appropriate follow up
+Further pregnancies as a rule are at least as severely affected – antenatal involvement of fetal medicine team essential
+Neutropaenia
+Generally accepted definition of total neutrophil count of <1.5 x 10 9/l
+Significance will depend on gestation and post-partum age, but causes to consider include :
+Sepsis
+Viral or other infection 
+Early : CMV, HSV, parvovirus, enterovirus, syphilis
+Later : Hepatitis A, Hepatitis B, RSV, influenza A and B, measles, rubella, varicella
+Maternal toxaemia
+Prematurity
+Occasionally, healthy term babies will have extremely low neutrophil count due to maternal anti-neutrophil antibodies
+Genetic syndromes associated with neutropaenia (although these usually present outside neonatal period)
+Treatment :
+Depends on the cause
+G-CSF has been used in the context of severe neutropaenia related to severe systemic infection 
+
+Congenital and neonatal infections
+
+The clinical presentation of these infections is often non-specific, and maternal infections antenatally are often asymptomatic or mildly symptomatic.
+Consider congenital infection if the baby presents with one or more of :
+IUGR
+Purpura
+Jaundice
+Chronic / unusual rash
+Anaemia
+Seizures
+Cerebral calcifications
+Hepatosplenomegaly
+Chorioretinitis
+Microphthalmia
+Pneumonitis
+Cataract 
+
+Or known maternal TORCH or other infection which may affect fetus. 
+The management of suspected congenital infection can be difficult. Discuss with consultant when suspected.
+Postnatal investigations for TORCH infections :
+(Toxoplasmosis, Rubella, CMV, Hepatitis B, C, HIV, Zoster  and others) 
+https://www.starship.org.nz/guidelines/infection-congenital/
+The Australasian Society for Infectious Diseases Management of Perinatal Infections guideline, also has useful information on perinatal management of these infections. 
+ https://www.asid.net.au/documents/item/368
+
+For management of infants born to mothers with known HSV, refer to :
+
+http://edu.cdhb.health.nz/Hospitals-Services/Health-Professionals/Neonatal-Clinical-Resources/Documents/Neonatal-Handbook-GLN0001.pdf
+OR
+https://www.asid.net.au/documents/item/368
+
+
+For management of a baby born to mother with syphilis, use :
+
+https://www.nzshs.org/docman/guidelines/management-of-sexual-health-conditions/syphilis/syphilis-in-pregnancy/397-syphilis-in-pregnancy-v1-sep-2020/file
+
+
+
+
+
+Neonatal Sepsis – General Facts
+
+Neonatal sepsis can be devastating if not treated promptly - the baby can appear relatively stable until rapid decompensation occurs
+The younger the infant, the more nonspecific presentation 
+Early GBS sepsis:
+Over 80% of early GBS sepsis occurs in infants born to mother with negative swabs 
+Over 90% cases are clinically apparent within the first 24hrs of life
+Clinical presentations include :
+Generalized sepsis without a focus – 80-85%
+Congenital pneumonia – 10%
+Meningitis – 7%
+Late onset GBS sepsis:
+Clinical presentations usually include:
+Generalized sepsis without a focus – 65% 
+Meningitis – 25-30%
+Other (rare) :
+Osteomyelitis
+Arthritis
+Cellulitis
+Adenitis 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Risk factors for neonatal sepsis
+Prolonged rapture of membranes (increasing risk after 18 hrs.)
+Maternal illness:
+Pyrexia >38.0 but any elevation >37.5 increases risk 
+WBC > 15
+Raised CRP
+Pathogens in maternal urine or high vaginal swab (E.coli, GBS)
+Chorioamnionitis
+Prior delivery of an infant with GBS disease 
+Fetal distress
+Prematurity (<37 weeks)
+Twin gestation – shown to be associated with GBS sepsis in some but not all studies 
+Clinical presentation
+Temperature :
+Hypothermia <36 deg for greater than one hour 
+Hyperthermia >37.5 deg for greater than one hour (if appropriate maneuvers have been undertaken to correct environmental factors) 
+Temperature instability
+Poor feeding
+Lethargy or irritability
+Pallor or mottling
+Jaundice if develops unusually rapidly
+Prolonged tachypnea or increased work of breathing (including intermittent tachypnea or grunting) 
+All newborn infants with early respiratory distress irrespective of risk factors should be considered as having GBS sepsis and should be investigated and treated accordingly
+No infants should be left untreated after 4hrs of age 
+Apnoea  
+Any apnoeas in a term baby
+New onset or increased frequency or severity in a premature baby
+Bradycardia or tachycardia
+Unexplained high, low or unstable BSL
+Meconium-stained liquor in a preterm baby (think Listeria sp) 
+Abdominal distension 
+Signs of meningitis (more likely to be present in late onset sepsis) : 
+Seizures 
+Significant irritability 
+Significant lethargy
+Bulging fontanelle in the context of an ill baby
+Focal neurological findings
+Nuchal rigidity (rare in this age group) 
+Investigations
+There is no test with perfect sensitivity or specificity for neonatal sepsis so the clinical scenario and the baby’s appearance need to be taken into account while interpreting the results
+
+Blood culture
+The most important and most informative blood test if done properly
+1ml of blood is required – smaller volume may miss bacteraemia 
+
+CRP
+An acute phase reactant synthesized within 6-8hrs in response to tissue injury
+Causes of raised CRP in a neonate include :
+Infection
+PROM
+Perinatal asphyxia
+Intracranial haemorrhage
+Pnemothoraces
+Meconium exposure
+Infarction
+Trauma
+Immunization
+Level peaks at 24-48hrs
+A normal CRP at the start of an illness or at birth lacks the sensitivity to rule out sepsis
+Sensitivity improves to > 90% after 6hrs
+Level <10mg/L is considered normal and has a negative predictive value of 99% for infection
+
+FBC
+Features of sepsis include :
+Total WBC <5 (leukopaenia)
+Neutrophil count <1  (neutropaenia) – strongly indicative of sepsis
+Raised WBC and / or neutrophil count 
+Toxic granulation, vacuolization or Dohle bodies present on the film
+Thrombocytopaenia – especially in Candida sepsis
+Raised Immature / Total neutrophil ratio (IT ratio) indicating left shift – immature neutrophils ( bands + myelocytes + metamyelocytes) divided by the total of immature plus mature neutrophils ( currently not available at HVDHB) :
+>0.25 on Day 1-4
+> 0.2 from day 5
+
+CXR
+Neonates with any signs of respiratory distress persisting for over 4hrs after birth should have a CXR
+Every neonate undergoing CXR for respiratory distress should have a gastric tube in situ for the CXR (to decompress stomach, and to exclude TOF) 
+CXR is usually best delayed in a stable neonate for at least 4 hrs since birth as earlier changes are more nonspecific and therefore less informative, but do not hesitate to order an earlier CXR in an unstable child who may need acute intervention (e.g. if you are suspecting a significant pneumothorax that may need treatment)
+A repeat CXR can be helpful in some cases, and can be considered by the SMO
+A neonate treated for sepsis without respiratory distress may need a CXR – at SMO’s discretion (this decision can be deferred until the morning handover in a stable neonate) 
+The SCBU RMO should discuss all new CXRs and their clinical context with the radiologist in the morning 
+
+
+Urine culture
+UTI as source of primary (early) sepsis is extremely rare ( less than 1%) therefore routine urine culture  is not indicated but it should be considered for late onset sepsis ( especially if after 7 days of life) 
+
+LP
+Most babies on SCBU treated for sepsis do not need an LP
+It should be considered if:
+Positive blood culture
+Ill appearing neonate
+Clinical signs indicative of possible meningitis  
+Significant blood changes (High CRP/WCC/Cytopenias)
+It may be indicated in other situations if CRP high (>50) – at SMO’s discretion 
+LP can be delayed if the baby is unstable and awaiting or attempting an LP should never lead to delay in commencing treatment
+
+Treatment – Choice of abx
+For early sepsis :
+Benzylpenicillin plus Gentamicin 
+If meningitis is confirmed or suspected and cannot be excluded use  Cefotaxime + benzylpenicillin
+
+Late sepsis :
+Benzylpenicillin and Gentamicin (consider Flucloxacillin instead of Benzylpenicillin if higher risk of Staphylococcal infection ie  central lines present, or premature infant) 
+If meningitis is confirmed or suspected and cannot be excluded, adequate CSF penetration requires the use of Cefotaxime + Benzylpenicillin 
+
+Suspected Necrotising Enterocolitis
+Amoxicillin + gentamicin (+ metronidazole on surgical recommendation) 
+
+IM antibiotics:
+The preferred method of antibiotic administration is IV
+If IV access cannot be obtained, these antibiotics can be administered IM:  (dose is same as IV)
+Ceftriaxone – concerns about biliary sludging limits its use in young infants 
+Amoxicillin
+Gentamicin
+Cefotaxime  
+
+Duration of treatment – see the guide below
+
+
+
+Management of asymptomatic babies at risk of sepsis depends on gestation and risk factors:
+Premature <37/40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Term ≥ 37 WEEKS GESTATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MANAGEMENT OF SYMPTOMATIC BABIES REGARDLESS OF RISK FACTORS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+Neurology 
+Hypoxic Ischaemic Encephalopathy
+Following a reversible hypoxic ischaemic global insult, neuronal death occurs in two major phases:
+Primary neuronal loss related to cellular hypoxia – there may be immediate neuronal death if the insult is severe , however, many neurons do not die during this primary phase of injury
+Secondary neuronal loss and delayed neuronal death starts hours after the initial insult and extends over days. This phase is associated with increased seizure activity and marked encephalopathy.s
+There is a window of opportunity that exists in the interval following resuscitation of the asphyxiated newborn before the secondary phase – this has been shown to be of 6 hours
+Borderline cases not entirely meeting criteria which can be discussed with NICU include :
+Well documented history of acute intrapartum asphyxia, but no or only mild encephalopathy 
+Baby meeting criteria other than age ( 6-24hrs old) 
+The following guideline is based on Wellington NICU guideline published May 2020 
+SQUARE should be filled in for babies admitted to SCBU as appropriate:
+SAC1 – Neonatal hypoxic brain injury resulting in permanent or severe loss of function OR
+SAC3-Neonata requiring cooling for suspected HIE
+
+
+
+
+
+
+
+Sarnat stages for HIE
+Stage 1:	hyper alertness, hyperreflexia, dilated pupils, tachycardia, seizures uncommon
+Stage 2: lethargy, hyper-reflexia, miosis, bradycardia, seizures, abnormal tone, weak suck and Moro reflex
+Stage 3: stupor, flaccidity, small to mid-position pupils which react poorly to light, decreased stretch reflexes, hypothermia and absent Moro, seizures often absent but may have decerebrate posturing 
+
+
+x
+Neonatal Seizures
+Summary
+Prompt discussion with the on-call SMO is mandatory for all infants suspected to be having seizures or who are at risk for newborn seizures. 
+If there is concern for seizures, the most helpful thing you can do is ensure that the events are captured on video
+Clinical diagnosis of seizures in this age group may be challenging. Focal tonic and focal clonic motor events are the most convincing for a neonatal seizure. A wide range of other clinical presentations may be seen, however. 
+First line treatment of newborn seizures is usually phenobarbitone; however, levetiracetam, phenytoin or midazolam may also be used (and occasionally carbamazepine). Treatment is to be on the advice of the on-call SMO. 
+
+Background
+Seizures are the most common neurological emergency occurring in the newborn period (defined as the first 28 days or before 44 weeks CGA in a preterm infant). 
+Seizures may occur in 14.28 infants/1000 live births in preterm babies vs 1.1 infants/1000 live births in term infants
+Hypoxic-ischaemic encephalopathy is the single most common cause of seizures; however, vascular events, structural brain lesions, infections, transient metabolic disturbances, inborn errors of metabolism and genetic epilepsies are also seen (see figure)
+Most newborn seizures are provoked by acute illness states and so are not due to epilepsy. Approximately 5-10% of newborns with seizures have a neonatal epilepsy (i.e. recurrent unprovoked seizures). Neonatal epilepsies often require specific investigation and treatment and early discussion with a neurologist is recommended. 
+
+
+Figure 1: Relative frequencies of the usual causes of newborn seizures
+
+Presentation
+Seizures may present as motor events (e.g. tonic, clonic, myoclonic, spasms, automatisms), nonmotor events (e.g. autonomic derangement, apnoea, behavior arrest), sequential events (i.e. displaying a range of different sequential clinical signs without a dominant clinical feature) or may be unclassifiable. 
+Seizures may also occur in infants with no observable clinical change, these seizures will only be detected by EEG/aEEG monitoring in the tertiary centre and are termed electrographic-only seizures
+Of note, all seizures in newborns are focal onset. 
+The table below contains descriptions of the seizure types that may be seen in newborn babies. 
+
+
+Diagnosis
+Diagnosis is extremely challenging as clinical events corresponding to seizures may be subtle or non-existent (i.e. electrographic-only seizures). Even experienced clinicians may struggle to correctly diagnose seizures on clinical grounds alone. 
+EEG or aEEG electrographic monitoring is usually required for accurate diagnosis and monitoring for newborns where there is a high suspicion of newborn seizures. This would require transfer to NICU, so early discussion with the on-call local SMO is important in case transfer is needed.
+Focal tonic or focal clonic motor events are highly likely to represent seizures, these events may be classified as seizures (and treatment considered) on clinical grounds. 
+If an event can be reliably clinically provoked by stimulation of the infant, or restraint of infant limbs during spontaneous events prompts an arrest of the events, then the event is likely not a seizure.
+Neonatal sleep myoclonus is a common seizure mimic in this age group. It only occurs during sleep and consists of brief focal myoclonic movements of the limbs. Classically flows from one limb to another during sleep. It never affects the face. The events stop when the infant is woken. This condition is benign and requires no treatment. Video may help if there is uncertainty.
+The figure and table below demonstrates the recommended approach to diagnosing seizures in newborn babies, including where transfer to NICU for EEG/aEEG monitoring should be considered. Don’t worry about the definition of an EEG/aEEG correlate as the EEG/aEEG is interpreted by the NICU team after transfer. 
+Any clinical diagnosis of a neonatal seizure should be discussed with the on-call SMO. 
+
+
+Investigations
+Blood
+FBC, extended electrolytes, CRP, blood gas, blood glucose
+Blood culture
+Ammonia ( consider full metabolic screen) 
+Consider HSV PCR
+CSF
+MCS, glucose, protein
+Viral PCR as indicated
+Consider sending an extra tube of CSF for freezing especially if infectious or metabolic cause is suspected 
+Urine
+Culture ( especially if over 48hrs of life)
+Consider metabolic screen
+Consider toxicology
+Skin
+Aspirate and swab any skin lesions
+Imaging 
+CXR
+HUSS
+Urgent CT if suspicion of a subdural haemorrhage
+MRI often will be needed but unlikely to be available acutely. 
+Additional genetic and metabolic investigations may also be required.  
+Treatment
+Resuscitation: ABCs. Respiratory depression or frequent apnoea may necessitate intubation and ventilation. 
+Treat any underlying causes: Consider antibiotics, consider acyclovir if HSV suspected, correct hypoglycaemia or electrolyte derangement. Hyperammonaemia/organic acidaemia/other metabolic derangement may require specific treatment on specialist advice. 
+Antiseizure medications may be required after discussion with the on-call SMO. Phenobarbitone is the usual first-line choice. Levetiracetam, midazolam, phenytoin and occasionally carbamazepine may also be used depending on specialist advice. The Australasian neonatal medicines formulary contains doses and drug information https://www.anmfonline.org/ 
+Remember that HIE is the most common cause of newborn seizures. These babies will often also benefit from therapeutic hypothermia and this consideration should also be discussed with the on-call SMO. 
+References
+Pressler RM, Cilio MR, Mizrahi EM, Moshé SL, Nunes ML, Plouin P, Vanhatalo S, Yozawitz E, de Vries LS, Puthenveettil Vinayan K, Triki CC, Wilmshurst JM, Yamamoto H, Zuberi SM. The ILAE classification of seizures and the epilepsies: Modification for seizures in the neonate. Position paper by the ILAE Task Force on Neonatal Seizures. Epilepsia. 2021 Mar;62(3):615-628. doi: 10.1111/epi.16815. Epub 2021 Feb 1. PMID: 33522601.
+Ronit M. Pressler, Nicholas S. Abend, Stéphan Auvin, Geraldine Boylan, Francesco Brigo, Maria Roberta Cilio, Linda S. De Vries, Maurizio Elia, Alberto Espache, Cecil D. Hahn, Terrie Inder, Nathalie Jette, Angelina Kakooza Mwesige, Silke Mader, Eli M. Mizrahi, Solomon L. Moshé, Lakshmi Nagarajan, Iris Noyman, Magda L. Nunes, Pauline Samia, Eilon Shany, Renée A. Shellhaas, Ann Subota, Chahnez Charfi Triki, Tammy Tsuchida, Kollencheri Puthenveettil Vinayan, Jo M. Wilmshurst, Elissa G Yozawitz, Hans Hartmann. Treatment of Seizures in the Neonate: Guidelines and Consensus-based Recommendations – Special Report from the ILAE Task Force on Neonatal Seizures (Draft). 2023. Available from ilae-neonatal-guidelines.pdf
+Zuberi SM, Wirrell E, Yozawitz E, Wilmshurst JM, Specchio N, Riney K, Pressler R, Auvin S, Samia P, Hirsch E, Galicchio S, Triki C, Snead OC, Wiebe S, Cross JH, Tinuper P, Scheffer IE, Perucca E, Moshé SL, Nabbout R. ILAE classification and definition of epilepsy syndromes with onset in neonates and infants: Position statement by the ILAE Task Force on Nosology and Definitions. Epilepsia. 2022 Jun;63(6):1349-1397. doi: 10.1111/epi.17239. Epub 2022 May 3. PMID: 35503712.
+Yozawitz E. Neonatal Seizures. N Engl J Med. 2023 May 4;388(18):1692-1700. doi: 10.1056/NEJMra2300188. PMID: 37133587.
+Malone A, Ryan CA, Fitzgerald A, Burgoyne L, Connolly S, Boylan GB. Interobserver agreement in neonatal seizure identification. Epilepsia. 2009 Sep;50(9):2097-101. doi: 10.1111/j.1528-1167.2009.02132.x. Epub 2009 Jun 1. PMID: 19490044.
+
+
+
+
+Metabolic / Endocrine 
+
+Hypoglycaemia 
+Definition:
+There is no clear consensus as to what threshold to use in treatment of hypoglycaemia – in Australia and NZ the most common cut off for treatment is <2.6mmol/L
+Background:
+Healthy term babies are able to mobilise energy stores through a process known as counter regulation and are unlikely to suffer any ill effects if fed infrequently in the first 48hrs of life. Some babies however are less able to cope and are at great risk for hypoglycaemia
+Even asymptomatic hypoglycaemia may result in adverse outcome (cerebral injury, neurodevelopmental delay).
+Symptoms:
+Poor feeding
+Altered level of consciousness
+Sleepiness
+Irritability
+Hypotonia
+Cyanosis
+Jitteriness
+Seizures
+Apnoea
+Tachypnoea
+High risk infants
+Infant of a diabetic mother
+Small for gestational age - <10th percentile on a customised centile chart (https://www.gestation.net/cc/3/172546.htm) 
+Large for gestational age >95th percentile on a customised centile chart 
+Or if customised charts not available, term baby with BW <2.8kg or BW >4.5kg
+Preterm infants (<37 weeks gestation )
+Infants with maternal beta blocker use (see below)
+Infants with :
+Perinatal asphyxia
+Traumatic delivery
+Respiratory distress
+Sepsis
+Hypothermia
+Monitoring of BSL:
+All high risk infants should receive milk feeds within the first hour of life
+Check blood glucose 1 hr after the first feed ( <2hrs of age)
+Monitor BSL 3hrly pre-feeds until 3 consecutive blood sugar levels >2.5mmol/L
+SCBU admission:
+<35/40
+BW<2.3kg
+Babies of mothers requiring insulin in pregnancy combine with at least one other additional risk factors :
+Prematurity
+Perinatal asphyxia
+Small or large for gestational age
+
+NB: Bedside glucose monitors can be inaccurate at low blood sugar levels, and so should be confirmed on a SCBU blood gas machine measurement. 
+
+
+
+Management:
+http://intranet.huttvalleydhb.org.nz/policies-guidelines/clinical/paediatrics-special-care-baby-unit-scbu/neonatal-hypoglycaemia-prevention-management/hypoglycaemia-guideline-scbu-2019.pdf
+
+
+
+
+
+Management of persistently low blood glucose :
+Avoid using repeated boluses of IV dextrose to avoid rebound hypoglycaemia – increase the rate of IV dextrose administration if possible
+Commence baby on 10% IV Dextrose at fluid volume appropriate for age and gradually increase if required
+If the baby is fluid restricted or already on 105mls/kg/day in the first 24hrs of life, the dextrose concentration may require to be increased
+You can use peripheral line to deliver 10% and 12.5% Dextrose
+If concentration needs to be increased above 12.5% Dextrose, a central line ( usually UVC) needs to be used
+To calculate the mg/kg/min of glucose being administered :   (http://www.nicutools.org/) 
+
+Usual requirement is 6-8mg/kg/min ; maximum rate is 12mg/kg/min
+If the glucose requirement exceeds 10mg/kg/min, perform hypoglycaemia screen 
+For infants with hyperinsulinism (usually diabetic mother) 
+Commence at a rate delivering 6-8mg/kg/min – the maximum rate is 12mg/kg/min
+If the baby requires >10mg/kg/min, consider using glucagon ( after discussing with NICU) 
+300mcg/kg IV or IM if not SGA
+200mcg/kg IV or IM if SGA
+If ongoing requirement for 12mg/kg/min after glucagon, consider hydrocortisone 5mg/kg/day in 4 divided doses ( after discussing with NICU)
+Other options (usually used in NICU) include diazoxide and somatostatin infusions 
+Hypoglycaemia screen:
+Indications:
+Unexplained severe hypoglycaemia <1.5mmol/L
+Hypoglycaemic seizure
+Glucose requirement >10mg/kg/min
+Early onset hypoglycaemia that persists or recurs after 72hrs despite adequate IV or enteral feed volumes 
+Tests:
+these should be taken during an episode of hypoglycaemia:
+blood glucose
+blood and urinary ketones
+ph, lactate
+Insulin
+Free fatty acids 
+Growth hormone
+Cortisol
+Carnitine
+Urinary amino acids and organic acids
+
+At the same time or later:
+Ammonia  (on ice) 
+TFTs
+Serum amino acids
+
+Interpreting the hypoglycaemia screen
+
+
+
+
+
+
+
+
+
+To make up concentrated dextrose solutions, use :
+fluid and electrolyte calculator on http://www.adhb.govt.nz/newborn/Guidelines/Nutrition/FluidsCalculator.htm
+or the formula below :
+7.5% dextrose 		Add 250ml 5% 	and 250ml 10% dextrose 
+12.5% dextrose 		Add 470ml 10% 	and 30ml 50% dextrose 
+15% dextrose 		Add 440ml 10% 	and 60ml 50% dextrose 
+20% dextrose		 Add 380ml 10% 	and 120ml 50% dextrose
+Maternal beta blockers are a significant risk factor for hypoglycaemia and bradycardia in newborn infants. 
+Infants born to mothers taking a beta blocker in the third trimester for whatever reason should have initial management and BSL monitoring similar to other high risk infants (summarised below) AND 24 hours of 4 hrly obs including HR to identify significant bradycardia.
+
+This risk factor should be recording on the NOC NEWS chart highlighting the above plan.
+
+Suggested management
+-Offer uninterrupted skin-to-skin contact at birth, or as soon as able following birth
+-Promote early breastfeeding within the first hour of life and assess for effective breastfeed
+-If breastfeeding is not effective, then help the mother to express her colostrum, and give all available expressed breast milk (EBM) to the infant but not beyond guidance volume
+-If no EBM is available, a formula feed should be offered at 5ml/kg/feed three hourly 
+- Check the BSL of an infant at risk of hypoglycaemia one hour after the first feed (at a maximum of 2 hours of age)
+-Ensure regular three hourly feeds, or earlier if showing feeding cues
+-Maintain infant temperature (skin to skin where appropriate) between 36.5°C and 37.5°C and assess responsiveness
+-Continue pre-feed BSLs for the next three feeds
+-There must be three consecutive pre-feed results ≥ 2.6 mmol/L before BSLs may be discontinued. Note: If the pre-feed BSLs are showing a downward trend, then monitoring should continue
+- If an infant has symptoms of hypoglycaemia at any time, perform BSL immediately
+- Notify the neonatal medical staff if the result is < 2.6mmol/L and follow the management plan as per hypoglycaemia guideline 
+
+Inborn errors of metabolism
+Presentation:
+Usually non specific
+Poor feeding
+Lethargy
+Vomiting
+Metabolic alkalosis
+Tachypnoea
+Acute encephalopathy is the predominant presentation of metabolic disease in the newborn
+Risk factors;
+Consanguinity
+Family history of unexplained neonatal death or recurrent pregnancy loss
+Family history (sibling) of unexplained developmental issues / regression
+Unexplained illness in a term baby, usually after commencing feeding
+Sudden onset of overwhelming illness
+
+Clinical:
+
+
+
+Investigations – discuss with the lab:
+Blood:
+Blood gas
+Urea and electrolytes, ketones
+Glucose
+Ammonia  (on ice) * must be sent urgently to Wellington – advise Lab tech!  
+Amino acids
+Pyruvate and lactate if baby is acidotic and /or hypoglycaemic
+Acylcarnitine profile  (blood spot)
+Contact National Testing Centre for Guthrie card results (ph 0800 522 7587) 
+Urine:
+Ketones
+Amino and organic acids
+Management of suspected IEM:
+Early consultation with NICU and SSH Metabolic team
+Stop feeds
+Give IV fluids with good concentration of glucose 10%
+Further management guided by the metabolic team
+
+Metabolic Bone Disease
+https://www.starship.org.nz/guidelines/osteopenia-of-prematurity/
+http://intranet.huttvalleydhb.org.nz/policies-guidelines/clinical/paediatrics-special-care-baby-unit-scbu/metabolic-bone-disease/metabolic-bone-disease-potassium-vit-d-2019.pdf
+Calcium and phosphate are usually accumulated by babies in the third trimester of pregnancy
+If there is insufficient dietary availability of calcium and phosphate, the baby will remodel their bones 
+Risk factors for metabolic bone disease:
+Prematurity < 32/40
+BW <1.8kg
+Delayed establishment of full enteral feeds
+Prolonged TPN
+Chronic use of medications that increase mineral excretion ( diuretics, dexamethasone, sodium bicarbonate)
+Cholestatic jaundice 
+Sedation / paralysis
+Vitamin D deficiency
+Short gut syndrome
+Monitoring :
+All at risk babies should have surveillance bloods done as per the guide on page 6
+Note : normal phosphate level is >1.8mmol/L ( this is different from the lab reference )
+Routine measurements of vitamin D and PTH are not required 
+Elevated ALP values are seen with normal growth , healing rickets, fractures, copper deficiency 
+Prophylaxis:
+All infants <1.8kg BW should receive phosphate supplements once on full feeds. This can be given by the addition of :
+Human milk fortifier (HMF) OR 
+Phosphate 1mmol/kg/day in two divided doses
+
+
+Maternal thyroid disease –Guideline from Waikato Neonatal Guidelines 2024
+Maternal Hyperthyroidism
+Hyperthyroidism affects 0.1-0.4% of pregnancies and the most common aetiologies are autoimmune hyperthyroidism (Graves’ disease) (95%), and gestational transient hyperthyroidism (1-3%)
+
+Neonatal autoimmune hyperthyroidism (neonatal Graves’ disease) affects about 2% of infants of mothers who have autoimmune hyperthyroidism (Graves’ disease) (Ref 1). It is caused by TSH receptor antibodies that have crossed the placenta leading to clinical
+symptoms in the foetus and neonate. It can occur in babies of mothers with active disease or those who have been treated in the past but still have circulating antibodies.
+
+It is important to remember that mothers who have had a past history of autoimmune hyperthyroidism can become hypothyroid following treatment, and then require thyroxine. These mothers can still have circulating antithyroid antibodies. Infants of these mothers
+are also at risk of neonatal autoimmune hyperthyroidism.
+Features of fetal and neonatal hyperthyroidism
+Foetus
+Features in the foetus include goitre, FGR, oligohydramnios, tachycardia, hydrops (associated with heart failure), increased risk of fetal compromise.
+
+Neonate
+In the neonate symptoms can present in the first few days and may last 3-6 months proportional to the clearance of maternal transplacentally acquired antibodies. There can be delayed presentation in babies of treated mothers due to the effects of transplacentally
+transferred maternal antithyroid drugs or blocking antibodies. Neonatal features can include goitre, irritability, restlessness, excessive weight loss, failure to thrive, diarrhoea, sweating, flushing, eye signs (peri-orbital oedema, lid retraction, proptosis), tachycardia,
+cardiac failure, advanced bone age, craniosynostosis, microcephaly, hepatosplenomegaly, thrombocytopenia, hyperviscosity.
+
+When assessing a neonate it is important to appreciate that these features can be nonspecific and a range of differential diagnoses need to be considered including sepsis, hypoglycaemia, drug withdrawal, and other causes for cardiorespiratory compromise.
+
+Maternal Hypothyroidism
+The most common cause of primary hypothyroidism in reproductive age is chronic autoimmune hypothyroidism (Hashimoto’s thyroiditis). There may be circulating stimulating or inhibiting antibodies that may transiently affect the neonate. There is a very small risk of hypothyroidism in the baby and this will be picked up by the routine newborn metabolic screen (NST – national screening test).
+
+There are significant alterations in thyroid function during pregnancy and increased dietary iodine requirements. Iodine, TRH, antithyroid medications and most maternal thyroid hormones, and IgG antibodies cross the placenta and yet there is no transplacental
+passage of TSH (Ref 4). Levothyroxine therapy may be required for treatment of maternal hypothyroidism and this crosses the placenta protecting the foetus from hypothyroidism until postpartum (Ref 4). It is of course essential to optimise the maternal management in pregnancy to prevent any risk to the foetus of hypothyroidism.
+
+Physiological Changes in the Newborn
+There is a natural physiological surge in TSH peaking at about 30 minutes after birth and then reducing to normal term levels by 3-5 days. The TSH surge stimulates neonatal T4 production which peaks by 48 hours after birth with normalisation of T4 (free) levels over
+several weeks (Ref 6). For this reason it is important to interpret any thyroid function results in context of the clinical history and age of the baby. For example a marginal raised T4 (free) in a 5 day old asymptomatic baby may reflect the physiological changes in T4 (free) rather than neonatal hyperthyroidism. The optimal timing of thyroid function tests in the newborn is debatable.
+
+History
+It is very helpful to have a detailed maternal history.
+Specific to the maternal thyroid history it is valuable to have the following information:
+
+Maternal diagnosis
+Graves’ disease (Autoimmune hyperthyroidism) YES or NO
+Hashimoto’s Thyroiditis (Autoimmune hypothyroidism) YES or NO
+Other maternal thyroid disorders e.g.….aplasia, ectopic, post thyroidectomy for Ca,
+genetic disorders
+
+Maternal Treatment
+Anti-thyroid drugs
+Thyroxine
+Past thyroid surgery
+
+Maternal TSI antibody levels
+Note maternal TSI antibody values
+Plan for management or the baby should be documented during the antenatal period
+One of the most common scenarios is that of a mother who has been on thyroxine but the specific diagnosis and TSI antibody status is unknown. This makes it difficult to assess the risk to the infant and determine the need for any further investigations. For such infants,
+consideration should be given to test cord blood for TSI antibodies.
+For infants of mothers with Graves’ disease Request TSH, T3 (free), T4 (free) on Day 5-7 
+
+If the mother has been on antithyroid medication arrange for baby to have repeat TFTs (T4 (free), TSH) on Day 10-14.
+
+A follow-up clinical review by the LMC at 7-14 days. This is because there can be a delayed presentation of hyperthyroidism in this clinical scenario.
+
+If there is a need to test for TSH Receptor Antibodies or TSI Thyroid-Stimulating Immunoglobulin (Grave’s disease specific), please also send a serum sample
+
+For all other thyroid problems (including maternal hypothyroidism) no routine TFTs required, but ensure newborn screening testing is sent.
+
+If results suggest hyperthyroidism, then consult with neonatal SMO and consider Paediatric Endocrinology opinion regarding further management.
+
+a) If baby asymptomatic, the results will gradually normalise over a few months and can be monitored at a frequency decided by the responsible clinician. A suggested approach is fortnightly TFTs for a month and then monthly until levels normalise.
+
+b) If baby is symptomatic, then recommend early consult with Paediatric Endocrinology as baby may require antithyroid medications if symptoms are moderate to severe.
+Infants with mild symptoms can still be monitored with serial TFTs as per the asymptomatic infant above. Treatment with antithyroid drugs is rarely needed as symptoms improve as the transplacentally acquired antibody levels reduce.
+
+It is recommended that if baby has clinical signs of hyperthyroidism, consult with NICU regarding management. The neonatal team can determine whether Paediatric Endocrine opinion is required.
+
+If any clinical signs of hyperthyroidism (see section 2.2 Features of fetal and neonatal hyperthyroidism) consider early TFTs (T4 [free], TSH) with understanding that there is usually a TSH surge shortly after delivery and results should be interpreted with consideration for the age of the baby.
+
+
+
+
+Ambiguous Genitalia; Disorder of Sex Development (DSD)
+Discuss with consultant and neonatologist urgently 
+The diagnosis will be very distressing to the family and should be approached very sensitively
+Do not make any comments that could be misinterpreted as indicating a gender
+Avoid saying “he’ or “she”
+Keep the initial discussion short and simple
+Stress that no decisions can be made about gender assignment until after the results of the blood tests and scans are reviewed and discussed with Endocrinology and Genetics teams
+History taking:
+Maternal drug ingestions
+Antenatal infections
+Antenatal exposure to teratogens
+Any recent androgenic changes in the mother
+Consanguinity ( indicating AR inheritance)
+Reduced male offspring in families on maternal side (indicating x-linked inheritance)
+Previous siblings:
+Dying in the newborn period
+With over-virilisationss
+With precocious puberty
+Examination:
+General condition 
+Signs of hypoglycaemia or dehydration
+Dysmorphic features
+Cardiovascular status including BP
+Gonadal examination:
+Palpable gonads in the labioscrotal or inguinal regions
+Penile length and width 
+Position of the urethral meatus
+Labioscrotal fold fusion
+Genitalia pigmentation
+Investigations
+Bloods :
+Serum electrolytes and glucose
+Urgent 17OHP ( urgent newborn screening)
+Karyotype analysis – urgently
+On endocrinologist advice: FSH, LH, testosterone, antimullerian hormone
+Pelvic and abdominal USS to asses for presence of uterus
+Further – as per neonatologist and endocrinologist on call
+
+Gastrointestinal 
+Bilious vomiting
+True bilious vomiting in a term baby  is a sign if intra-abdominal pathology and must be taken seriously 
+Bilious aspirates can occur in preterm infants on NGT feeds with feed intolerance 
+Any baby who vomits bile (GREEN, not yellow) should be presumed to have a bowel obstruction; causes may include:
+Duodenal atresia ( associated with Down syndrome)
+Malrotation with volvulus – symptoms may be intermittent as the bowel can twist and untwist 
+Small bowel atresia
+Colonic strictures after NEC
+Meconium ileus – associated with cystic fibrosis
+Hirschsprung disease – delayed passage of meconium with increasing abdominal distension and vomiting ; family history common
+Hernia – inguinal hernia
+Anorectal malformations – often as part of VACTERL association
+Ileus secondary to sepsis
+NEC 
+
+Management of a baby with bilious vomits:	
+Admit to SCBU for observation
+Examination , particularly looking for:
+Signs of sepsis
+Abdominal distension /tenderness
+Bowel sounds
+Herniae
+Anus patency
+Baby nil by mouth
+Wide bore NGT or OGT – left on free drainage and aspirated hourly
+IV fluids 
+Baby may require a fluid bolus 
+Maintenance fluids
+Replace fluid loses such as large aspirates or vomits ( usually if >10mls in 4hrs)  with normal saline
+Electrolyte imbalance should be corrected
+Consider antibiotics 
+Investigations :
+Bloods :
+Blood gas and lactate (elevated lactate is significant and may be caused by bowel ischemia or shock) 
+Blood culture
+FBC, UEC, LFTs +/- coag 
+CRP if >6hrs old
+AXR
+CXR
+Contrast studies as recommended by the surgeons 
+Medications:
+IV abx : Amox plus Gent plus/minus Metronidazole (on discussion with paediatric surgeon) 
+Consider IV Paracetamol or morphine
+Referrals:
+Early discussion with NICU and Paediatric Surgeons 
+Management of a baby with feed intolerance:
+Examine to ensure the baby is well
+FBC, CRP and blood gas with lactate to ensure no infection / inflammation
+If the above reassuring, keep the baby NBM for a few hours and re-start trophic feeds, slowly increased as tolerated
+
+Necrotising enterocolitis (NEC) 
+Uncommon pathology (<5% of babies <1500g) with high mortality (up to 30%)
+Risk factors:
+Prematurity
+IUGR
+Abnormal umbilical artery dopplers
+Enteral feeding
+Formula feeding
+Lack of antenatal steroids
+Polycythaemia
+Term babies with severe hypoxia or congenital heart disease
+Presentation:
+Baby can be initially looking quite well or can have a sudden collapse
+Bilious aspirates
+Abdominal distension, tenderness, discolouration
+Blood in stool
+Apnoea
+Temperature instability
+Metabolic acidosis (high lactate)
+Hypotension
+Falling platelets, neutrophils, Hb
+Bells criteria :
+Stage 1 – suspected
+Unwell, apnoeas, aspirates, abdominal distension, blood in stool
+AXR – non-specific changes
+Stage 2 – definite
+Acidotic, abdominal tenderness, falling platelets
+AXR- pneumatosis or portal venous gas
+Stage 3 – advanced:
+Hypotensive, DIC, peritonitis
+AXR – perforation and free gas
+Management :
+Investigations :
+Bloods :
+Blood culture
+Blood gas with lactate, FBC, UEC, CRP, coagulation profile, blood glucose
+AXR – supine and lateral
+Dilated bowel loops with thickened wall
+Pneumatosis
+Free gas seen as air accumulating under the liver in the left lateral position
+Stacking of loops on top of each other
+Fixed bowel loops
+Gas in the portal venous system 
+Treatment :
+Early consultation with NICU and surgical team
+NBM for 7-10 days
+Large bore NGT for bowel decompression
+IV abx ( amox, gent and metronidazole) for 7-10 days
+IV fluids with losses replacement
+Pain relief
+Correction of electrolyte imbalances
+40% will require surgery 
+
+
+
+
+
+
+Skin conditions
+http://www.adhb.govt.nz/newborn/TeachingResources/Dermatology/InfectiveLesions.htm
+Staphylococcal skin infections :
+
+
+
+
+Herpes simplex :
+Typically the vesicular lesions develp by the end of the first week or into the second week of life although occasionally can be present at birth 
+
+
+
+Any infant with vesicular lesion(s) must be investigated and treated with acyclovir regardless of maternal history
+Investigations :
+Swab lesions for HSV PCR
+Swab all mucosal sites (eyes, mouth , nasopharynx, rectum) for HSV PCR
+FBC, LFTs ( abnormal LFTs are indicative of HSV in this context) , blood culture, CRP
+CSF – biochemistry, MCS. HSV PCR
+Management
+IV acyclovir:
+14 days for skin, eye,  mucous membrane disease
+At least 21 days for CNS disease  
+Early discussion with NICU and Paeds ID
+Ophthalmology referral if eye swab positive 
+For management of infants born to mothers with known HSV, refer to :
+
+http://edu.cdhb.health.nz/Hospitals-Services/Health-Professionals/Neonatal-Clinical-Resources/Documents/Neonatal-Handbook-GLN0001.pdf
+OR
+https://www.asid.net.au/documents/item/368
+
+Benign skin conditions
+Toxic erythema of newborn – Erythema Toxicum Neonatorum
+
+
+
+
+
+
+
+
+
+
+
+
+
+Affects at least 50% of newborn babies
+Arises in the first few days and presents with scattered pink or red marks often with papules and wheals scattered over the whole body
+It is benign and resolves after a few days while new lesions appear
+
+Transient pustular melanosis
+
+
+
+
+
+
+Also known as transient neonatal pustular dermatosis and transient neonatal pustulosis 
+It may a variant  of toxic erythema of newborn 
+It affects 0.2-4% of newborn infants in the first few days of life
+It is more common in dark skinned babies 
+It presents with pustules on an unaffected, non erythematous base present at birth
+It can involve any area, including palms and soles
+Lesions can be solitary or occur in clusters
+The pustules can rupture and crust
+The lesions can leave an area of hyperpigmentation which fades over the next few months
+
+
+       
+Miliaria = sweat rash
+
+
+
+Affects about 15% of newborn babies
+It is due to occlusion of the sweat duct
+If the occlusion is superficial, sweat collects just below the stratum corneum forming clear thin walled blisters – miliaria cristalina
+
+Milia
+
+
+Tiny white spots due to accumulation of sweat/ sebaceous  material in blocked pores
+50% of infants have milia on the face
+Most resolve within the first 4 weeks of life
+Bohn’s nodules – milia on the gums 
+
+Epstein’s pearls – milia on the hard palate
+
+
+
+Sticky eye and Conjunctivitis 
+Simple facts:
+Sticky eyes are very common in SCBU 
+The most common cause is a blocked tear duct
+Sticky eyes without redness or swelling do not require bacterial swabs or antibiotic drops
+Simple cleaning only required
+This is usually  self-limiting 
+If the eyes are sticky AND the conjunctiva are red and swollen, send an urgent gram stain and appropriate swab for culture to exclude gonococcal ophtalmtitis ( see below) 
+If there is persistent purulent eye discharge, you can use chloramphenicol eye drops / ointment 
+
+Causes:
+Non infectious :
+Nasolacrimal duct obstruction
+Corneal abrasion (following trauma at delivery)
+Glaucoma 
+Foreign body
+Infectious :
+
+Chemosis –  swelling of the conjunctiva 
+
+
+Lumbar skin stigmata / sacral dimples
+Low risk lesions:
+Characteristics:
+Simple dimple:
+Soft tissue depression appearing up to 2.5cm above the anus or within coccygeal proximity
+Deviated gluteal fold
+Management:
+No investigation or follow up
+Intermediate risk lesion
+Characteristics:
+Discolouration (other than Mongolian blue spots);
+Vascular anomaly
+Pigmented lesions
+Cutis aplasia
+Management:
+USS
+High risk lesion
+Characteristics :
+Hypertrichosis (long, silky hair)
+Skin tags
+Associated mass
+Syndromic 
+Symptomatic (abnormal lower limb neurology)
+Management:
+USS
+Consider MRI (brain+spine)
+Discuss with neurosurgeon 
+Further information can be found on :
+http://www.adhb.govt.nz/newborn/TeachingResources/Dermatology/BackLesions.htm
+Surgical issues
+Undescended Testes = cryptoorchidism
+Common – can affect 2% of term infants
+GP to refer to paediatric surgical clinic if still undescended at 3 months of age
+Bilateral undescended testes raises a concern for ambiguous genitalia and may be an emergency 
+Hypospadias 
+Very common – incidence 1 in 300 male births
+Most often isolated
+It is a ventral displacement of the urethral meatus ;
+Anterior (50%; meatus in near the tip of the penis):
+Glanular
+Subcoronal
+Middle (30%; along the shaft):
+Distal penile
+Midshaft
+Proximal penile 
+Posterior (20%; meatus is near the base of the penis or in the scrotum):
+Penoscrotal
+Scrotal
+Perineal 
+It can be associated with:
+Dorsal “hooding”
+Incomplete formation of the prepuce
+“Chordee”
+Ventral curvature
+Ensure :
+ appropriate penile length – measure the stretched penile length with a spatula from the pubic symphysis 
+If less than <2.5cm, discuss with SMO and paediatric endocrinology
+Testes are descended
+Scrotum is not bifid (this may indicate a DSD problem) 
+Refer to paediatric surgical clinic
+Renal USS :
+If severe, poor urinary stream or posterior hypospadias 
+Inguinal hernias
+Usually appear as an intermittent lump at the external ring in the groin
+Nappy area needs to be examined regularly as they can appear after weeks or months of age especially in premature babies
+Always needs surgical correction – usually just prior to discharge 
+
+Renal Tract Dilatation
+For management of the antenatal renal pelvic dilatation, refer to the national guideline :
+
+https://media.starship.org.nz/renal-tract-dilation-flow-chart/renal-tract-dilation-flow-chart.pdf
+
+
+
+
+
+Resources :
+CDHB NICU Handbook, 2020 : http://edu.cdhb.health.nz/Hospitals-Services/Health-Professionals/Neonatal-Clinical-Resources/Documents/Neonatal-Handbook-GLN0001.pdf
+ADHB NICU Guidelines : http://www.adhb.govt.nz/newborn/Guidelines.htm
+Starship Clinical Guidelines : https://www.starship.org.nz/guidelines/browse/?index=All&type=see_all&cat=starship_clinical_guidelines
+Hutt SCBU Guidelines and Policies:   http://intranet.huttvalleydhb.org.nz/policies-guidelines/clinical/paediatrics-special-care-baby-unit-scbu/
+CCDHB RMO Handbook : link currently inactive https://collaboration.huttvalleydhb.org.nz/workspaces/neonatal/SitePages/index.aspx
+NICU monographs: use for drug dosing,  available on Sharepoint, 
+UpToDate
