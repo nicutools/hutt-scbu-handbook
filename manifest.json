@@ -1,0 +1,10 @@
+{
+  "name": "Hutt SCBU Handbook",
+  "short_name": "SCBU Handbook",
+  "description": "Clinical staff handbook for Hutt Hospital Special Care Baby Unit",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#1e293b",
+  "icons": []
+}

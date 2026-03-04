@@ -4,68 +4,110 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Hutt SCBU Handbook</title>
+<link rel="manifest" href="manifest.json">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
+/* ── Design Tokens ───────────────────────────────────── */
+:root {
+  --bg: #f5f2eb;
+  --card: #ffffff;
+  --text: #1a1a2e;
+  --text-muted: #5a5870;
+  --sidebar-bg: #0e1525;
+  --sidebar-hover: #182038;
+  --sidebar-text: #a4b3ca;
+  --sidebar-active-text: #5eead4;
+  --sidebar-active-bg: rgba(94, 234, 212, 0.08);
+  --accent: #0d9488;
+  --accent-hover: #0f766e;
+  --accent-light: #ccfbf1;
+  --border: #e5e0d5;
+  --table-header: #f5f2eb;
+  --shadow: 0 1px 3px rgba(26,26,46,0.04), 0 4px 12px rgba(26,26,46,0.03);
+  --shadow-hover: 0 2px 8px rgba(26,26,46,0.06), 0 8px 24px rgba(26,26,46,0.05);
+  --radius: 10px;
+  --font-display: 'Lora', Georgia, serif;
+  --font-body: 'Plus Jakarta Sans', system-ui, sans-serif;
+  --sidebar-width: 290px;
+}
+
 /* ── Reset & Base ────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; scroll-padding-top: 1rem; }
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--font-body);
   font-size: 15px;
-  line-height: 1.6;
-  color: #1a1a1a;
-  background: #f5f6f8;
+  line-height: 1.7;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* ── Sidebar ─────────────────────────────────────────── */
 .sidebar {
   position: fixed;
   top: 0; left: 0;
-  width: 280px;
+  width: var(--sidebar-width);
   height: 100vh;
-  background: #1e293b;
-  color: #e2e8f0;
+  background: linear-gradient(180deg, #111b30 0%, var(--sidebar-bg) 100%);
+  color: var(--sidebar-text);
   overflow-y: auto;
-  padding: 1rem 0;
+  padding: 0;
   z-index: 100;
-  transition: transform 0.3s ease;
+  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  border-right: 1px solid rgba(255,255,255,0.04);
 }
+.sidebar::-webkit-scrollbar { width: 5px; }
+.sidebar::-webkit-scrollbar-track { background: transparent; }
+.sidebar::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 10px; }
+.sidebar::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
 .sidebar-header {
-  padding: 0.75rem 1.25rem 1rem;
-  border-bottom: 1px solid #334155;
+  padding: 1.5rem 1.5rem 1.25rem;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  background: rgba(255,255,255,0.02);
 }
 .sidebar-header h1 {
-  font-size: 1.1rem;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
   font-weight: 700;
   color: #fff;
   line-height: 1.3;
+  letter-spacing: -0.01em;
 }
 .sidebar-header p {
-  font-size: 0.75rem;
-  color: #94a3b8;
-  margin-top: 0.25rem;
+  font-size: 0.7rem;
+  color: #607590;
+  margin-top: 0.35rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 500;
 }
 .nav-list {
   list-style: none;
-  padding: 0.5rem 0;
+  padding: 0.75rem 0;
 }
 .nav-item > a, .nav-sub a {
   display: block;
-  padding: 0.4rem 1.25rem;
-  color: #cbd5e1;
+  padding: 0.45rem 1.5rem;
+  color: var(--sidebar-text);
   text-decoration: none;
-  font-size: 0.85rem;
-  border-left: 3px solid transparent;
-  transition: all 0.15s;
+  font-size: 0.82rem;
+  font-weight: 500;
+  border-left: 2px solid transparent;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 .nav-item > a:hover, .nav-sub a:hover {
-  background: #334155;
-  color: #fff;
-  border-left-color: #60a5fa;
+  background: var(--sidebar-hover);
+  color: #e2e8f0;
+  border-left-color: rgba(94, 234, 212, 0.4);
 }
 .nav-item > a.active {
-  background: #334155;
-  color: #60a5fa;
-  border-left-color: #60a5fa;
+  background: var(--sidebar-active-bg);
+  color: var(--sidebar-active-text);
+  border-left-color: var(--sidebar-active-text);
   font-weight: 600;
 }
 .nav-sub {
@@ -77,12 +119,13 @@ body {
   display: block;
 }
 .nav-sub a {
-  padding-left: 2rem;
-  font-size: 0.8rem;
-  color: #94a3b8;
+  padding-left: 2.25rem;
+  font-size: 0.78rem;
+  font-weight: 400;
+  color: #607590;
 }
 .nav-sub a:hover {
-  color: #e2e8f0;
+  color: #b8c5d8;
 }
 
 /* ── Hamburger ───────────────────────────────────────── */
@@ -91,123 +134,210 @@ body {
   position: fixed;
   top: 0.75rem; left: 0.75rem;
   z-index: 200;
-  background: #1e293b;
+  background: var(--sidebar-bg);
   color: #fff;
-  border: none;
-  border-radius: 6px;
-  width: 40px; height: 40px;
-  font-size: 1.3rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 8px;
+  width: 42px; height: 42px;
+  font-size: 1.2rem;
   cursor: pointer;
   line-height: 1;
+  transition: background 0.2s;
 }
+.menu-toggle:hover { background: #182038; }
 .overlay {
   display: none;
   position: fixed;
   inset: 0;
-  background: rgba(0,0,0,0.4);
+  background: rgba(0,0,0,0.5);
+  backdrop-filter: blur(2px);
   z-index: 50;
 }
 
 /* ── Main content ────────────────────────────────────── */
 .main {
-  margin-left: 280px;
-  padding: 2rem 2.5rem 4rem;
-  max-width: 900px;
+  margin-left: var(--sidebar-width);
+  padding: 2.5rem 3rem 4rem;
+  max-width: 880px;
 }
 .content-section {
-  background: #fff;
-  border-radius: 8px;
-  padding: 1.5rem 2rem;
-  margin-bottom: 1.5rem;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 2rem 2.25rem;
+  margin-bottom: 1.25rem;
+  box-shadow: var(--shadow);
   display: none;
+  border: 1px solid rgba(0,0,0,0.04);
+  transition: box-shadow 0.3s ease;
+}
+.content-section:hover {
+  box-shadow: var(--shadow-hover);
 }
 .content-section.visible {
   display: block;
-  animation: fadeIn 0.25s ease-out;
+  animation: fadeIn 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(8px); }
+  from { opacity: 0; transform: translateY(10px); }
   to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Preamble / Home ─────────────────────────────────── */
+.preamble {
+  position: relative;
+  overflow: hidden;
+  border: none;
+  background: linear-gradient(135deg, #0e1525 0%, #162032 50%, #0d3330 100%);
+  color: #e2e8f0;
+  padding: 2.5rem 2.5rem !important;
+}
+.preamble::before {
+  content: '';
+  position: absolute;
+  top: -50%; right: -30%;
+  width: 80%; height: 200%;
+  background: radial-gradient(circle, rgba(13,148,136,0.15) 0%, transparent 60%);
+  pointer-events: none;
+}
+.preamble h1 {
+  font-family: var(--font-display) !important;
+  font-size: 2rem !important;
+  font-weight: 700 !important;
+  color: #fff !important;
+  margin-bottom: 0.5rem !important;
+  letter-spacing: -0.02em;
+  position: relative;
+}
+.preamble p {
+  position: relative;
+  color: #94a3b8 !important;
+  font-size: 0.88rem !important;
+}
+.preamble p:first-of-type {
+  color: var(--sidebar-active-text) !important;
+  font-size: 1rem !important;
+  font-weight: 500;
 }
 
 /* ── Typography ──────────────────────────────────────── */
 h2 {
+  font-family: var(--font-display);
   font-size: 1.5rem;
-  color: #1e293b;
-  border-bottom: 2px solid #e2e8f0;
-  padding-bottom: 0.5rem;
-  margin-bottom: 1rem;
+  font-weight: 700;
+  color: var(--text);
+  border-bottom: none;
+  padding-bottom: 0.75rem;
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.02em;
+  position: relative;
+}
+h2::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0;
+  width: 40px; height: 3px;
+  background: var(--accent);
+  border-radius: 2px;
 }
 h3 {
-  font-size: 1.2rem;
-  color: #334155;
-  margin: 1.5rem 0 0.75rem;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #2d2b3d;
+  margin: 1.75rem 0 0.75rem;
+  letter-spacing: -0.01em;
 }
 h4 {
-  font-size: 1rem;
-  color: #475569;
+  font-weight: 700;
+  color: var(--text-muted);
   margin: 1.25rem 0 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.82rem;
 }
 p {
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.65rem;
 }
 a {
-  color: #2563eb;
+  color: var(--accent);
   text-decoration: none;
+  font-weight: 500;
+  transition: color 0.15s;
+  overflow-wrap: break-word;
+  word-break: break-all;
 }
 a:hover {
+  color: var(--accent-hover);
   text-decoration: underline;
+  text-decoration-color: rgba(13,148,136,0.3);
+  text-underline-offset: 2px;
 }
 ul, ol {
   margin: 0.5rem 0 0.75rem 1.5rem;
 }
 li {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.35rem;
 }
 
 /* ── Tables ──────────────────────────────────────────── */
 .table-wrap {
   overflow-x: auto;
-  margin: 1rem 0;
+  margin: 1.25rem 0;
+  border-radius: 8px;
+  border: 1px solid var(--border);
 }
 table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.85rem;
+  font-size: 0.84rem;
 }
 th, td {
-  border: 1px solid #e2e8f0;
-  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  padding: 0.6rem 0.85rem;
   text-align: left;
   vertical-align: top;
 }
 th {
-  background: #f1f5f9;
+  background: var(--table-header);
   font-weight: 600;
-  color: #334155;
+  color: var(--text);
   white-space: nowrap;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+tbody tr {
+  transition: background 0.15s;
 }
 tbody tr:nth-child(even) {
-  background: #f8fafc;
+  background: #faf9f6;
+}
+tbody tr:hover {
+  background: rgba(13,148,136,0.04);
 }
 
 /* ── Search box ──────────────────────────────────────── */
 .search-box {
-  padding: 0.75rem 1.25rem;
+  padding: 0.75rem 1.5rem;
 }
 .search-box input {
   width: 100%;
-  padding: 0.4rem 0.6rem;
-  border-radius: 4px;
-  border: 1px solid #475569;
-  background: #334155;
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.08);
+  background: rgba(255,255,255,0.05);
   color: #e2e8f0;
-  font-size: 0.8rem;
+  font-size: 0.82rem;
+  font-family: var(--font-body);
   outline: none;
+  transition: all 0.2s;
 }
-.search-box input::placeholder { color: #94a3b8; }
-.search-box input:focus { border-color: #60a5fa; }
+.search-box input::placeholder { color: #506580; }
+.search-box input:focus {
+  border-color: var(--sidebar-active-text);
+  background: rgba(255,255,255,0.08);
+  box-shadow: 0 0 0 3px rgba(94,234,212,0.1);
+}
 
 /* ── Mobile ──────────────────────────────────────────── */
 @media (max-width: 768px) {
@@ -221,14 +351,23 @@ tbody tr:nth-child(even) {
     display: block;
   }
   .menu-toggle {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .main {
     margin-left: 0;
     padding: 3.5rem 1rem 3rem;
   }
   .content-section {
-    padding: 1rem 1.25rem;
+    padding: 1.25rem 1.5rem;
+    border-radius: 8px;
+  }
+  .preamble {
+    padding: 1.75rem 1.5rem !important;
+  }
+  .preamble h1 {
+    font-size: 1.5rem !important;
   }
 }
 
@@ -250,7 +389,15 @@ tbody tr:nth-child(even) {
     padding: 0.5rem 0;
     animation: none !important;
   }
+  .preamble {
+    background: none !important;
+    color: #000 !important;
+  }
+  .preamble h1, .preamble p {
+    color: #000 !important;
+  }
   h2 { page-break-after: avoid; }
+  h2::after { display: none; }
   table { page-break-inside: avoid; }
 }
 </style>
@@ -264,6 +411,7 @@ tbody tr:nth-child(even) {
   <div class="sidebar-header">
     <h1>Hutt SCBU Handbook</h1>
     <p>Quick Reference Guide &middot; 2026</p>
+    <p style="font-size:0.6rem; color:#4a5568; margin-top:0.2rem; letter-spacing:0.05em;">v1.0.1</p>
   </div>
   <div class="search-box">
     <input type="text" id="nav-search" placeholder="Search sections&hellip;">
@@ -3184,6 +3332,11 @@ window.addEventListener('popstate', (e) => {
   showHome(false);
   history.replaceState({ home: true }, '', window.location.pathname + window.location.search);
 })();
+</script>
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./sw.js');
+}
 </script>
 </body>
 </html>
