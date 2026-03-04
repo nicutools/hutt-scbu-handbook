@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hutt-scbu-v3';
+const CACHE_NAME = 'hutt-scbu-v4';
 
 self.addEventListener('install', (e) => {
   e.waitUntil(
