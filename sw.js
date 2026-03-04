@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hutt-scbu-v4';
+const CACHE_NAME = 'hutt-scbu-v5';
 
 self.addEventListener('install', (e) => {
   e.waitUntil(
@@ -19,21 +19,24 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   if (e.request.method !== 'GET') return;
 
-  // For navigation requests (page loads), always serve index.html
+  // For navigation requests: cache-first, update in background
   if (e.request.mode === 'navigate') {
     e.respondWith(
-      fetch(e.request)
-        .then((response) => {
-          const clone = response.clone();
-          caches.open(CACHE_NAME).then((cache) => cache.put('./index.html', clone));
+      caches.match('./index.html').then((cached) => {
+        const fetchPromise = fetch(e.request).then((response) => {
+          if (response.ok) {
+            const clone = response.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put('./index.html', clone));
+          }
           return response;
-        })
-        .catch(() => caches.match('./index.html'))
+        });
+        return cached || fetchPromise;
+      })
     );
     return;
   }
 
-  // For other assets (fonts, etc.), network-first with cache fallback
+  // For other assets: network-first with cache fallback
   e.respondWith(
     fetch(e.request)
       .then((response) => {
